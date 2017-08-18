@@ -8,14 +8,13 @@
 
 **Link to work:** [Bear Cub Image-Day 1](https://codepen.io/BritishPandaChick/full/wqpbOW/)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: August 18, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Built a elephant image from the Daily CSS Images challenge. Used CSS to try building trunk
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: This one was so hard because of the trunk. I played around with the trunk and looked at a few examples, but decided to keep things simple. I added the stripes to see if it would help make it interesting. I did my best with the ears, but I might have made Mickey Mouse instead of an elephant. Played with the border-radius a bit to see if that would help and it make it less Mickey a bit.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Elephant Image-Day 2](https://codepen.io/BritishPandaChick/full/wqyjmE/)
 
 
 ### Day 1: June 27, Monday
