@@ -17,12 +17,10 @@
 **Link(s) to work**: [Elephant Image-Day 2](https://codepen.io/BritishPandaChick/full/wqyjmE/)
 
 
-### Day 1: June 27, Monday
+### Day 3: August 19, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Built a Beaver image from the Daily CSS Images challenge. Tried building a snout and teeth.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I tried doing this challenge mostly on my own, but I looked at the code I previously did for reference. I even had to google some projects to see how others tried making the teeth and snout. It took some time, but I managed to get it to work a bit. Hardest part of the challenge was the snout and nose. I tried clippy as suggested from the tools in the online course the creator of the challenge recommends, but it didn't work for me so I just modified it with CSS.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [Beaver Image-Day 2](https://codepen.io/BritishPandaChick/full/WEzvMb/)
