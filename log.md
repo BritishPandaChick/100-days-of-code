@@ -32,3 +32,11 @@
 **Thoughts** I did a little bit better than the beaver challenge and did most of the things on my own. I did reference back to the beaver a bit for the nose. I did have to look at other project examples to see how others did the stripes. I used on project as an example and tried to replicate it as best I could. Originally it was looking like a bright orange monkey, but the stripes helped make it a little bit better.
 
 **Link(s) to work**: [Tiger Image-Day 4](https://codepen.io/BritishPandaChick/full/xLWLxv/)
+
+### Day 5: August 21, 2017
+
+**Today's Progress**: Made a CSS image of Mickey Mouse for the Daily CSS Images challenge. Used a sample project on CodePen to figure out how to do the mouth.
+
+**Thoughts** Wasn't quite sure what to do for the challenge so I had to look at other projects to get an idea what I was suppose to do. Decided to make Mickey Mouse since I almost made a mouse yesterday. Overall did better building Mickey's head and ears. The biggest challenge was the smile and creating his chin. I did a quick google search to see how others made smiles and tweaked some of the code to get mine for Mickey. It doesn't quite look like Mickey Mouse. His cheeks have a chipmunk quality, but overall I was impressed with what I was able to do and make.
+
+**Link(s) to work**: [Mickey Mouse Image-Day 5](https://codepen.io/BritishPandaChick/full/ayGOOZ/)
