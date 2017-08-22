@@ -40,3 +40,11 @@
 **Thoughts** Wasn't quite sure what to do for the challenge so I had to look at other projects to get an idea what I was suppose to do. Decided to make Mickey Mouse since I almost made a mouse yesterday. Overall did better building Mickey's head and ears. The biggest challenge was the smile and creating his chin. I did a quick google search to see how others made smiles and tweaked some of the code to get mine for Mickey. It doesn't quite look like Mickey Mouse. His cheeks have a chipmunk quality, but overall I was impressed with what I was able to do and make.
 
 **Link(s) to work**: [Mickey Mouse Image-Day 5](https://codepen.io/BritishPandaChick/full/ayGOOZ/)
+
+### Day 6: August 22, 2017
+
+**Today's Progress**: Made a CSS Clock from CSS Tricks. Finished HTML and CSS. Trying to get clock to work once it is in the browser.
+
+**Thoughts** I looked at more examples of clocks before started this project so decided to "cheat" and try using a tutorial. I found one off of CSS Tricks and decided to try it. I've made clocks before, but this one involves moving the different hands on the clock. Currently working on getting the hands to work. Right now the minute hand stays where it is at.
+
+**Link(s) to work**: [Daily CSS Images Day-6 Project](https://github.com/BritishPandaChick/daily-css-images/tree/master/clock-6)
