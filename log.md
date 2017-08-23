@@ -47,4 +47,13 @@
 
 **Thoughts** I looked at more examples of clocks before started this project so decided to "cheat" and try using a tutorial. I found one off of CSS Tricks and decided to try it. I've made clocks before, but this one involves moving the different hands on the clock. Currently working on getting the hands to work. Right now the minute hand stays where it is at.
 
-**Link(s) to work**: [Daily CSS Images Day-6 Project](https://github.com/BritishPandaChick/daily-css-images/tree/master/clock-6)
+**Link(s) to work**: [Daily CSS Images Day-6 Project Clock](https://github.com/BritishPandaChick/daily-css-images/tree/master/clock-6)
+
+### Day 7: August 23, 2017
+
+**Today's Progress**: Fixed CSS Clock Code so clock hands work. Started working on Day 7 of CSS Images with the ruler image.
+
+**Thoughts** I debugged my code for my clock I was working on yesterday. The problem was with the images and how the URL being used in the CSS. Once that was fixed, the code was running smoothly. Once I finished with the clock code, I started working on the CSS ruler. The challenge was figuring out the markings on the ruler and how to get them to appear on the page. I looked a quite a few examples and decided to try replicating one I saw on a website I googled. The problem I had with the ruler was just getting the markings to line with each other. Some were separated from the top. When I used ruler-wrapper for the class, the issue was resolved. I'll play around with the customization sometime later.
+
+**Link(s) to work**: [Daily CSS Images Day-6 Project Clock ](https://github.com/BritishPandaChick/daily-css-images/tree/master/clock-6)
+[Daily CSS Images Day-7 Ruler](https://codepen.io/BritishPandaChick/full/PKaBJv/)
