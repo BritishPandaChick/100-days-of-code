@@ -57,3 +57,11 @@
 
 **Link(s) to work**: [Daily CSS Images Day-6 Project Clock ](https://github.com/BritishPandaChick/daily-css-images/tree/master/clock-6)
 [Daily CSS Images Day-7 Ruler](https://codepen.io/BritishPandaChick/full/PKaBJv/)
+
+### Day 8: August 24, 2017
+
+**Today's Progress**:Made a notepad for Day 8 of Daily CSS Images Challenge.
+
+**Thoughts** Once again, looked at some of the CSS Images of notepads on CodePen to get some inspiration before I started. Decided to try replicating some of the code I've seen on CodePen. I had to google a bit of the code to understand how it works, but I managed to get my version similar to the one I was working off of on CodePen. Will try the next challenge tomorrow then switch gears and maybe try Odin Project a bit.
+
+**Link(s) to work**: [Daily CSS Images Day 8-Notepad](https://codepen.io/BritishPandaChick/full/dzjJwb/)
