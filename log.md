@@ -65,3 +65,11 @@
 **Thoughts** Once again, looked at some of the CSS Images of notepads on CodePen to get some inspiration before I started. Decided to try replicating some of the code I've seen on CodePen. I had to google a bit of the code to understand how it works, but I managed to get my version similar to the one I was working off of on CodePen. Will try the next challenge tomorrow then switch gears and maybe try Odin Project a bit.
 
 **Link(s) to work**: [Daily CSS Images Day 8-Notepad](https://codepen.io/BritishPandaChick/full/dzjJwb/)
+
+### Day 9: August 25, 2017
+
+**Today's Progress**: Made a calendar for Day 8 of Daily CSS Images Challenge. Use the tutorial on W3schools.com to make a monthly calendar.
+
+**Thoughts** I wanted to make a simple calendar so I did some googling before I decided to build this project. I found this tutorial on W3schoools and decided to try making it with them. Overall it was a better experience making this project. Will be switching from Daily CSS Images to projects on Odin Project tomorrow to see how those go before returning to the Daily CSS Image challenge. All that is left to do for this project is play with the fonts and colors.
+
+**Link(s) to work**: [Daily CSS Images Day 9-Calendar](https://codepen.io/BritishPandaChick/full/Mvqymz/)
