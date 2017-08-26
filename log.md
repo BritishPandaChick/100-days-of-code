@@ -73,3 +73,9 @@
 **Thoughts** I wanted to make a simple calendar so I did some googling before I decided to build this project. I found this tutorial on W3schoools and decided to try making it with them. Overall it was a better experience making this project. Will be switching from Daily CSS Images to projects on Odin Project tomorrow to see how those go before returning to the Daily CSS Image challenge. All that is left to do for this project is play with the fonts and colors.
 
 **Link(s) to work**: [Daily CSS Images Day 9-Calendar](https://codepen.io/BritishPandaChick/full/Mvqymz/)
+
+### Day 10: August 26, 2017
+
+**Today's Progress**: Finished working on election map for Skillcrush 102 review. Started to debug code.
+
+**Thoughts** I did start Odin Project, but there wasn't enough project building for me to write a post for today and I didn't want to jump ahead with Odin so I worked on the election map bonus project from the updated Skillcrush 102. This map was already a work in progress before I did this challenge so most of the code was already done. I just added more variables, objects, and methods to figure out the state winners. Did some work on debugging my code and did find some errors. I will continue debugging code to see if I can find the error later. JavaScript itself is tough for me and this challenge was tough for that reason. I still need some JavaScript practice so hopefully I can push through the Odin Project more tomorrow.
