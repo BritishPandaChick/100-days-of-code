@@ -79,3 +79,9 @@
 **Today's Progress**: Finished working on election map for Skillcrush 102 review. Started to debug code.
 
 **Thoughts** I did start Odin Project, but there wasn't enough project building for me to write a post for today and I didn't want to jump ahead with Odin so I worked on the election map bonus project from the updated Skillcrush 102. This map was already a work in progress before I did this challenge so most of the code was already done. I just added more variables, objects, and methods to figure out the state winners. Did some work on debugging my code and did find some errors. I will continue debugging code to see if I can find the error later. JavaScript itself is tough for me and this challenge was tough for that reason. I still need some JavaScript practice so hopefully I can push through the Odin Project more tomorrow.
+
+### Day 11: August 27, 2017
+
+**Today's Progress**: Started building a portfolio for 30 Days, 30 Sites Challenge. Built most of site. Adding more customizations and changing colors.
+
+**Thoughts** Still working on getting Odin Project ready to go, but there are some extra things I need to do before I can start doing the projects. In the mean time, I'm trying out the 30 Days, 30 Sites challenge by doing the portfolio (the first project). I looked at the sample site and tried out the sample site code to see how they did parts of the site. After working on that code, I'm taking the things I liked about the site and translating it to my own portfolio site. This is a newer version of my previous portfolio site so I'm playing with the colors and layout a bit more. There are some things I liked from the sample site that I'm going to keep using, but I'm slowly making changes to the site to have it fit my personality a bit more.  I'm still working on my site right now. I'll try playing with it a bit more and finish up this site tomorrow.
