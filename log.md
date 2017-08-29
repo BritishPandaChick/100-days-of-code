@@ -16,7 +16,6 @@
 
 **Link(s) to work**: [Elephant Image-Day 2](https://codepen.io/BritishPandaChick/full/wqyjmE/)
 
-
 ### Day 3: August 19, 2017
 
 **Today's Progress**: Built a Beaver image from the Daily CSS Images challenge. Tried building a snout and teeth.
@@ -85,3 +84,13 @@
 **Today's Progress**: Started building a portfolio for 30 Days, 30 Sites Challenge. Built most of site. Adding more customizations and changing colors.
 
 **Thoughts** Still working on getting Odin Project ready to go, but there are some extra things I need to do before I can start doing the projects. In the mean time, I'm trying out the 30 Days, 30 Sites challenge by doing the portfolio (the first project). I looked at the sample site and tried out the sample site code to see how they did parts of the site. After working on that code, I'm taking the things I liked about the site and translating it to my own portfolio site. This is a newer version of my previous portfolio site so I'm playing with the colors and layout a bit more. There are some things I liked from the sample site that I'm going to keep using, but I'm slowly making changes to the site to have it fit my personality a bit more.  I'm still working on my site right now. I'll try playing with it a bit more and finish up this site tomorrow.
+
+**Link(s) to work**: [Portfolio site-Day 1](https://codepen.io/BritishPandaChick/full/OjoKjL/)
+
+### Day 12: August 28, 2017
+
+**Today's Progress**: Putting finishing touches on portfolio site from Day 11. Started working on event invitation for 30 Days, 30 Sites Challenge.
+
+**Thoughts** Added some last minute final touches to the portfolio site I was working on for Day 11 and added the link to the log. Spent most of my time building an event invitation. I looked at the sample site and the one on W3schools to see how to tackle this project. After looking at the demo and the code for the demo a bit, I started picking and choosing which elements I wanted for my site on CodePen. Currently working on getting just the right header for my website. I couldn't get the background image to appear at first, then when it did appear I didn't like the look with a text. I'm going to keep things simple and just use simple background colors with the text.
+
+**Link(s) to work**: [Event Invitation-Day 2]()
