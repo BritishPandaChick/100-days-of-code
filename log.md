@@ -93,4 +93,4 @@
 
 **Thoughts** Added some last minute final touches to the portfolio site I was working on for Day 11 and added the link to the log. Spent most of my time building an event invitation. I looked at the sample site and the one on W3schools to see how to tackle this project. After looking at the demo and the code for the demo a bit, I started picking and choosing which elements I wanted for my site on CodePen. Currently working on getting just the right header for my website. I couldn't get the background image to appear at first, then when it did appear I didn't like the look with a text. I'm going to keep things simple and just use simple background colors with the text.
 
-**Link(s) to work**: [Event Invitation-Day 2]()
+**Link(s) to work**: [Event Invitation-Day 2](https://codepen.io/BritishPandaChick/full/eEPQza/)
