@@ -94,3 +94,12 @@
 **Thoughts** Added some last minute final touches to the portfolio site I was working on for Day 11 and added the link to the log. Spent most of my time building an event invitation. I looked at the sample site and the one on W3schools to see how to tackle this project. After looking at the demo and the code for the demo a bit, I started picking and choosing which elements I wanted for my site on CodePen. Currently working on getting just the right header for my website. I couldn't get the background image to appear at first, then when it did appear I didn't like the look with a text. I'm going to keep things simple and just use simple background colors with the text.
 
 **Link(s) to work**: [Event Invitation-Day 2](https://codepen.io/BritishPandaChick/full/eEPQza/)
+
+### Day 13: August 29, 2017
+
+**Today's Progress**: Finished working on event invitation project for Day 12. Debugging code for Election Map and Magic 8 Ball for Skillcrush 102 review.
+
+**Thoughts** Worked a little bit more on the event invitation project form Day 12. Changed the images, added some colors, and tweaked some of the content. The project isn't perfect, but I'm much happier with the look. I might go back and change colors of the headlines so they work with the images. Instead of starting a new project, I took time go get back to debug my magic 8 ball code and election map code I've been working on for the Skillcrush 102 review I'm doing with a few other Skillcrush alumni. With the magic 8 ball, I tweaked some of the functions and manage to get the message to appear. The only thing I need to do know for the magic 8 ball is figure out how to get the message inside the actual magic 8 ball. I double checked all my code, but wasn't able to figure out what was causing it to act up. I took a break and went back to the election map. This time I was able to get all the states to change colors, showing the candidate names, and picking a winner. The only problem was the colors belonging to the second candidate weren't showing up on the map. I think the problem is in one of the functions so I'll need to double check the JavaScript again to see if I can find the error.
+
+**Link(s) to work**: [Magic 8 Ball-JavaScript 102 Review](https://jsbin.com/xodimuxoce/1/edit?html,css,js,output)
+[Election Map-JavaScript 102 Review](https://jsbin.com/xafubatuto/1/edit?html,css,js,output)
