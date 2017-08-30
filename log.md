@@ -103,3 +103,11 @@
 
 **Link(s) to work**: [Magic 8 Ball-JavaScript 102 Review](https://jsbin.com/xodimuxoce/1/edit?html,css,js,output)
 [Election Map-JavaScript 102 Review](https://jsbin.com/xafubatuto/1/edit?html,css,js,output)
+
+### Day 14: August 30, 2017
+
+**Today's Progress**: Made a pencil jar for Daily CSS Images challenge. Used CSS to add a few pencils inside the jar.
+
+**Thoughts** Decided to do another CSS images for today's project. I found it helpful when I look at other examples on CodePen since it gives me a better idea of what I need to make. After looking at a couple of examples, I picked one I liked and tried replicating the code as best as I could. The biggest challenge was making the pencils. One of the pencils was outside of the jar so it took me some time playing top margin, width, and height to get the pencil in the jar.
+
+**Link(s) to work**: [Daily CSS Images Day 10-Pencil](https://codepen.io/BritishPandaChick/full/jLXyee/)
