@@ -119,3 +119,11 @@
 **Thoughts** After looking through the project prompt e-mails in my inbox, I decided to make a pizza for the Daily CSS Images. I looked a few sample projects to get some inspiration, but I mostly did this project on my own. I didn't want to make a regular pizza so I had a little fun decorating my pizza. I kept my design pretty simple so I could focus on getting the right shape and size for the elements I was working with. It isn't perfect and I'll try adding black lines in the future to show the slices.
 
 **Link(s) to work**: [Daily CSS Images Day 11-Pizza](https://codepen.io/BritishPandaChick/full/QMYWRB/)
+
+### Day 16: September 2017
+
+**Today's Progress**: Started building a tourist attraction website for 30 Days, 30 Sites challenge. I finished most of the HTML. Did some CSS work for navigation and map.
+
+**Thoughts** Looked at the sample website and a few CodePen examples before I started. I decided to make a fictional tourist attraction website for Storybrooke, Maine. The biggest challenge building this website was knowing what to put on the home page for a tourist attraction. I put in placeholders for things I'd like to add, but most of the focus was just putting most of the HTML on the site. I took some time to play with the CSS to get the navigation bar ready. I put a map to the real life location on my site. I changed the width to expand the map on the website. Biggest challenge has been the image at the top of the site. It isn't quite centered, but I'll play around with it as I keep building my website.
+
+**Link(s) to work**: [30 Days, 30 Sites Day 3-Tourist Attraction site](https://codepen.io/BritishPandaChick/full/wqNGKL/)
