@@ -111,3 +111,11 @@
 **Thoughts** Decided to do another CSS images for today's project. I found it helpful when I look at other examples on CodePen since it gives me a better idea of what I need to make. After looking at a couple of examples, I picked one I liked and tried replicating the code as best as I could. The biggest challenge was making the pencils. One of the pencils was outside of the jar so it took me some time playing top margin, width, and height to get the pencil in the jar.
 
 **Link(s) to work**: [Daily CSS Images Day 10-Pencil](https://codepen.io/BritishPandaChick/full/jLXyee/)
+
+### Day 15: August 31, 2017
+
+**Today's Progress**: Created a pizza for the Daily CSS Images challenge.
+
+**Thoughts** After looking through the project prompt e-mails in my inbox, I decided to make a pizza for the Daily CSS Images. I looked a few sample projects to get some inspiration, but I mostly did this project on my own. I didn't want to make a regular pizza so I had a little fun decorating my pizza. I kept my design pretty simple so I could focus on getting the right shape and size for the elements I was working with. It isn't perfect and I'll try adding black lines in the future to show the slices.
+
+**Link(s) to work**: [Daily CSS Images Day 11-Pizza](https://codepen.io/BritishPandaChick/full/QMYWRB/)
