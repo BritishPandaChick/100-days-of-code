@@ -133,3 +133,11 @@
 **Today's Progress**: Finished building tourist attraction website for 30 Days, 30 Sites challenge. Added images. Used bootstrap to create website layout.
 
 **Thoughts** Finished building tourist attraction site. Used the sample site as a model to figure out what features I wanted on my site. This is the best project I've done using bootstrap. Although the navigation and footer need to span over the entire page, I'm satisfied with the look of the project and have gotten better using bootstrap since I used it to build my first version of my portfolio.
+
+### Day 18: September 3, 2017
+
+**Today's Progress**: Built a hamburger with HTML & CSS for Daily CSS Images challenge.
+
+**Thoughts** Looked at more sample projects of burgers before I started building this project. I saw similar project on CodePen, but I only borrowed a bit of CSS just to make the top bun. Only issue was getting the positioning of the different toppings in between the two buns. I played around with the margins a bit before getting the toppings underneath each other. I switched around some of the div tags so the meat was on the bottom instead of the top. Originally the meat was the first div and tomato was the last, but I switched the order around so it would be easier working in CSS.
+
+**Link(s) to work**: [Daily CSS Images Day 12-Hamburger](https://codepen.io/BritishPandaChick/full/dzrWyV/)
