@@ -120,10 +120,16 @@
 
 **Link(s) to work**: [Daily CSS Images Day 11-Pizza](https://codepen.io/BritishPandaChick/full/QMYWRB/)
 
-### Day 16: September 2017
+### Day 16: September 1, 2017
 
 **Today's Progress**: Started building a tourist attraction website for 30 Days, 30 Sites challenge. I finished most of the HTML. Did some CSS work for navigation and map.
 
 **Thoughts** Looked at the sample website and a few CodePen examples before I started. I decided to make a fictional tourist attraction website for Storybrooke, Maine. The biggest challenge building this website was knowing what to put on the home page for a tourist attraction. I put in placeholders for things I'd like to add, but most of the focus was just putting most of the HTML on the site. I took some time to play with the CSS to get the navigation bar ready. I put a map to the real life location on my site. I changed the width to expand the map on the website. Biggest challenge has been the image at the top of the site. It isn't quite centered, but I'll play around with it as I keep building my website.
 
 **Link(s) to work**: [30 Days, 30 Sites Day 3-Tourist Attraction site](https://codepen.io/BritishPandaChick/full/wqNGKL/)
+
+### Day 17: September 2, 2017
+
+**Today's Progress**: Finished building tourist attraction website for 30 Days, 30 Sites challenge. Added images. Used bootstrap to create website layout.
+
+**Thoughts** Finished building tourist attraction site. Used the sample site as a model to figure out what features I wanted on my site. This is the best project I've done using bootstrap. Although the navigation and footer need to span over the entire page, I'm satisfied with the look of the project and have gotten better using bootstrap since I used it to build my first version of my portfolio.
