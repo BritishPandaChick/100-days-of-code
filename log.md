@@ -141,3 +141,11 @@
 **Thoughts** Looked at more sample projects of burgers before I started building this project. I saw similar project on CodePen, but I only borrowed a bit of CSS just to make the top bun. Only issue was getting the positioning of the different toppings in between the two buns. I played around with the margins a bit before getting the toppings underneath each other. I switched around some of the div tags so the meat was on the bottom instead of the top. Originally the meat was the first div and tomato was the last, but I switched the order around so it would be easier working in CSS.
 
 **Link(s) to work**: [Daily CSS Images Day 12-Hamburger](https://codepen.io/BritishPandaChick/full/dzrWyV/)
+
+### Day 19: September 4, 2017
+
+**Today's Progress**: Made a taco using CSS for Daily CSS Images challenge.
+
+**Thoughts** After looking at some sample projects, I decided to try replicating one of the taco projects I saw on CodePen. The project doesn't quite look like an actual taco, but I managed to get it as similar to the one seen on CodePen and an actual taco. The biggest challenge was doing the tomato and cheese. Originally I was trying to get the tomato to appear, but nothing appeared. Once I added the background color and some shadow, bits of the tomato started to appear. This made it look like there were multiple slices instead of just one appearing. Today's project makes it clear I need to learn more about box shadows and how they work in CSS.
+
+**Link(s) to work**: [Daily CSS Images Day 13-Taco](https://codepen.io/BritishPandaChick/full/YxgmYp/)
