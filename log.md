@@ -157,3 +157,16 @@
 **Thoughts** Worked mostly on the HTML for product site. Looked at a few sample projects on CodePen to see how others tackled the project as well as looking at the sample project included in the e-mail. Did most of the HTML today for the site. Spent most of my time reading the flexbox tutorial from the e-mail and trying to get the images to appear on the site side by side. One of the images is not the same size as the others so I might get rid of the last row and just keep the original 3 images I have. I feel like there is something else missing on the page, but I'm going to try keeping this product side very simple. I'll play around with some of the code when I finish the style for the site. I started some of the CSS, but I decided to stop and focus on getting most of my code up and ready to go.
 
 **Link(s) to work**: [30 Days 30 Sites Day 4-Product Site](https://codepen.io/BritishPandaChick/full/NvmEax/)
+
+### Day 21: September 6, 2017
+
+**Today's Progress**: Fixed HTML for product site challenge. Concentrated on doing CSS style for website.
+
+**Thoughts** Add a few more div tags and removed the last row of images from the product site. I also deleted the store image I included in the header. Most difficult part of today's tasks was figuring out if I needed to include more information on my site. The website is fairly simple, but I don't think the client I had in mind designing this website for would want a lot of detail and instead put attention on the objects. Another tough part of the website was finding the right colors for all the elements on the site. I decided to stick with gold, but I wanted to use colors from the signs featured on the storefront. I used a clippy tool to find colors closest to the ones used on the signs and used them as backgrounds for the nav, header, and footer.
+
+**Link(s) to work**: [30 Days 30 Sites Day 4-Product Site](https://codepen.io/BritishPandaChick/full/NvmEax/)
+
+### Day 22: September 7, 2017
+
+**Today's Progress**:
+**Thoughts**
