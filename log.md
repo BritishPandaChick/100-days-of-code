@@ -149,3 +149,11 @@
 **Thoughts** After looking at some sample projects, I decided to try replicating one of the taco projects I saw on CodePen. The project doesn't quite look like an actual taco, but I managed to get it as similar to the one seen on CodePen and an actual taco. The biggest challenge was doing the tomato and cheese. Originally I was trying to get the tomato to appear, but nothing appeared. Once I added the background color and some shadow, bits of the tomato started to appear. This made it look like there were multiple slices instead of just one appearing. Today's project makes it clear I need to learn more about box shadows and how they work in CSS.
 
 **Link(s) to work**: [Daily CSS Images Day 13-Taco](https://codepen.io/BritishPandaChick/full/YxgmYp/)
+
+### Day 20: September 5, 2017
+
+**Today's Progress**: Started building a product site for 30 Days, 30 Sites challenge. Used flexbox tutorial to get images aligned and next to each other on website.
+
+**Thoughts** Worked mostly on the HTML for product site. Looked at a few sample projects on CodePen to see how others tackled the project as well as looking at the sample project included in the e-mail. Did most of the HTML today for the site. Spent most of my time reading the flexbox tutorial from the e-mail and trying to get the images to appear on the site side by side. One of the images is not the same size as the others so I might get rid of the last row and just keep the original 3 images I have. I feel like there is something else missing on the page, but I'm going to try keeping this product side very simple. I'll play around with some of the code when I finish the style for the site. I started some of the CSS, but I decided to stop and focus on getting most of my code up and ready to go.
+
+**Link(s) to work**: [30 Days 30 Sites Day 4-Product Site](https://codepen.io/BritishPandaChick/full/NvmEax/)
