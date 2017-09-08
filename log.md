@@ -168,5 +168,8 @@
 
 ### Day 22: September 7, 2017
 
-**Today's Progress**:
-**Thoughts**
+**Today's Progress**: Made a cheesecake for Daily CSS Image challenge using only CSS.
+
+**Thoughts** This challenge took me a lot longer than the hour requirement. The problem I had with my cheesecake were the sides. The sides of the cheesecake were much bigger than the top. I played with the height on the top and sides to see why they weren't fitting together to look like a whole cheesecake. A couple hours later, I realized I needed to set the width of the side to 67.5% instead of just 67%. Once I changed the width measurement, everything started to fit the right way. I need to make sure I double check my measurements since I typed in the measurements wrong on a few of the cherries.
+
+**Link(s) to work**: [Daily CSS Images Challenge Day 14-Cheesecake](https://codepen.io/BritishPandaChick/full/yodbvr/)
