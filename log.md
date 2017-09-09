@@ -173,3 +173,10 @@
 **Thoughts** This challenge took me a lot longer than the hour requirement. The problem I had with my cheesecake were the sides. The sides of the cheesecake were much bigger than the top. I played with the height on the top and sides to see why they weren't fitting together to look like a whole cheesecake. A couple hours later, I realized I needed to set the width of the side to 67.5% instead of just 67%. Once I changed the width measurement, everything started to fit the right way. I need to make sure I double check my measurements since I typed in the measurements wrong on a few of the cherries.
 
 **Link(s) to work**: [Daily CSS Images Challenge Day 14-Cheesecake](https://codepen.io/BritishPandaChick/full/yodbvr/)
+
+### Day 23: September 8, 2017
+**Today's Progress**: Created a slice of pie for Daily CSS Image challenge.
+
+**Thoughts** After looking at some sample projects others have done, I tried building something similar to one of the examples I found on CodePen. Decided to go with a basic pie. Originally was planning on having a whipped cream topping, but wasn't having much luck getting it to appear on the browser. Decided to scrap the whipped cream after trying for an hour. The pie filling itself was originally a challenge because it wasn't appearing in CodePen. I double checked my code and discovered I missed a . before the pie class name. Once I made the changes, everything started to appear like a pie slice.
+
+**Link(s) to work**: [Daily CSS Images Challenge Day 15-Pie](https://codepen.io/BritishPandaChick/full/dzxoby/)
