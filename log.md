@@ -175,8 +175,15 @@
 **Link(s) to work**: [Daily CSS Images Challenge Day 14-Cheesecake](https://codepen.io/BritishPandaChick/full/yodbvr/)
 
 ### Day 23: September 8, 2017
+
 **Today's Progress**: Created a slice of pie for Daily CSS Image challenge.
 
 **Thoughts** After looking at some sample projects others have done, I tried building something similar to one of the examples I found on CodePen. Decided to go with a basic pie. Originally was planning on having a whipped cream topping, but wasn't having much luck getting it to appear on the browser. Decided to scrap the whipped cream after trying for an hour. The pie filling itself was originally a challenge because it wasn't appearing in CodePen. I double checked my code and discovered I missed a . before the pie class name. Once I made the changes, everything started to appear like a pie slice.
 
 **Link(s) to work**: [Daily CSS Images Challenge Day 15-Pie](https://codepen.io/BritishPandaChick/full/dzxoby/)
+
+### Day 24: September 9, 2017
+
+**Today's Progress**: Finished debugging magic 8 ball. Started to debug election map script file.
+
+**Thoughts** I have been meaning to debug some of my JavaScript projects I've been working on. I finally figured out what was wrong with the magic 8 ball. The problem with my magic 8 ball was in one of the src links in the JavaScript file. The src link was to the wrong image. I started to work on my election map, but I'm having a harder time finding out what is wrong with my map. I double checked the HTML & CSS to see if there were any errors with the election map there, but didn't find anything. The error most likely is in the script file in one of the functions used to tally up the votes. JavaScript is tough, but I'm getting better at reading the code and understanding what it is trying to do.
