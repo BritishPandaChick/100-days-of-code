@@ -187,3 +187,11 @@
 **Today's Progress**: Finished debugging magic 8 ball. Started to debug election map script file.
 
 **Thoughts** I have been meaning to debug some of my JavaScript projects I've been working on. I finally figured out what was wrong with the magic 8 ball. The problem with my magic 8 ball was in one of the src links in the JavaScript file. The src link was to the wrong image. I started to work on my election map, but I'm having a harder time finding out what is wrong with my map. I double checked the HTML & CSS to see if there were any errors with the election map there, but didn't find anything. The error most likely is in the script file in one of the functions used to tally up the votes. JavaScript is tough, but I'm getting better at reading the code and understanding what it is trying to do.
+
+### Day 25: September 10, 2017
+
+**Today's Progress**: Made Frankenstein for Daily CSS Images challenge.
+
+**Thoughts** I saw a really cute CodePen image I wanted to try replicating for Franken-bear for this project, but I wasn't having much luck and decided to scrap it. After looking at more images for inspiration, I found an example to try replicating. Had problems getting the stitches and one of the bolts to line up correctly. After playing with the margins as best as I could, I decided to scrap the stitches for the face. I left the right bolt the way it is. It doesn't match the one on the left, but I might revisit this project later and play with the margins on the bolts to see if I can get it to work.
+
+**Link(s) to work**: [Daily CSS Images Challenge Day 16-Frankenstein](https://codepen.io/BritishPandaChick/full/JygxQG/)
