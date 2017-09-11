@@ -195,3 +195,11 @@
 **Thoughts** I saw a really cute CodePen image I wanted to try replicating for Franken-bear for this project, but I wasn't having much luck and decided to scrap it. After looking at more images for inspiration, I found an example to try replicating. Had problems getting the stitches and one of the bolts to line up correctly. After playing with the margins as best as I could, I decided to scrap the stitches for the face. I left the right bolt the way it is. It doesn't match the one on the left, but I might revisit this project later and play with the margins on the bolts to see if I can get it to work.
 
 **Link(s) to work**: [Daily CSS Images Challenge Day 16-Frankenstein](https://codepen.io/BritishPandaChick/full/JygxQG/)
+
+### Day 26: September 11, 2017
+
+**Today's Progress**: Created a Zombie face for the Daily CSS Images challenge.
+
+**Thoughts** While looking at examples on CodePen, I found a great zombie design that seemed interesting to try. Originally it wasn't working out and I was ready to scrap the entire project. The problem was the face was just a sideways circle with two outlines for the mouth. I took a look at some of the code for the project I was inspired by and discovered another div tag was used to help move the face down towards the middle of the page. Once I added the container div tag, the shapes I originally had on the browser started to come together to make the face.
+
+**Link(s) to work**: [Daily CSS Images Challenge Day 17-Zombie](https://codepen.io/BritishPandaChick/full/yzBKeZ/)
