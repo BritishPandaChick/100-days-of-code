@@ -203,3 +203,11 @@
 **Thoughts** While looking at examples on CodePen, I found a great zombie design that seemed interesting to try. Originally it wasn't working out and I was ready to scrap the entire project. The problem was the face was just a sideways circle with two outlines for the mouth. I took a look at some of the code for the project I was inspired by and discovered another div tag was used to help move the face down towards the middle of the page. Once I added the container div tag, the shapes I originally had on the browser started to come together to make the face.
 
 **Link(s) to work**: [Daily CSS Images Challenge Day 17-Zombie](https://codepen.io/BritishPandaChick/full/yzBKeZ/)
+
+### Day 27: September 12, 2017
+
+**Today's Progress**: Made a vampire for Daily CSS Images challenge.
+
+**Thoughts** I found a great example of a vampire head on CodePen that I wanted to replicate, but the head was too small. I decided to play around with the width and height on many of the elements to see if I could improve the size so it was a little bit bigger. The challenge for today's project was the teeth. The teeth were still pretty small and it was hard finding the right size so they were visible. As I finished the project, I noticed the head is not quite in the center of the page but has shift a bit to the right. For now, I'm satisfied with what I made. I might go back later and see if I can add some changes to the margins so the head can be a little more in the center of the page.
+
+**Link(s) to work**: [Daily CSS Images Day 18-Vampire](https://codepen.io/BritishPandaChick/full/veYWZx/)
