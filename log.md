@@ -211,3 +211,27 @@
 **Thoughts** I found a great example of a vampire head on CodePen that I wanted to replicate, but the head was too small. I decided to play around with the width and height on many of the elements to see if I could improve the size so it was a little bit bigger. The challenge for today's project was the teeth. The teeth were still pretty small and it was hard finding the right size so they were visible. As I finished the project, I noticed the head is not quite in the center of the page but has shift a bit to the right. For now, I'm satisfied with what I made. I might go back later and see if I can add some changes to the margins so the head can be a little more in the center of the page.
 
 **Link(s) to work**: [Daily CSS Images Day 18-Vampire](https://codepen.io/BritishPandaChick/full/veYWZx/)
+
+### Day 28: September 13, 2017
+
+**Today's Progress**: Editing and customizing my personal portfolio site. Made revisions to the home page and changed the menu for the portfolio site.
+
+**Thoughts** Taking a break from making projects to start making changes to my portfolio site. I deleted some of the older pages and got rid of my current blog on the website. I'm planning on re-doing the blog into something more tech related once I'm done revising some of the previous pages. For now I'm putting my focus into building the home page of my site. I was hoping to do more of the portfolio site today, but I'll get to the other pages as I go. The challenge of the home page was just figuring out the right layout for the content and what should be on the home page. I looked at a few examples and decided to make my home page my current portfolio page where users could see my best projects. I added a brief bio at the top of the home page and made a contact section at the bottom for the call of action.
+
+**Link(s) to work**: [BritishPandaChick Personal Portfolio](http://www.britishpandachick.com)
+
+### Day 29: September 14, 2017
+
+**Today's Progress**: Started working on restaurant menu site. Made header for the website and started work on the actual menu section.
+
+**Thoughts** I really liked the templates from W3 Schools that I wanted to do another for another site. I decided to use the pizza menu template for the restaurant menu. So far I've been able to make the header of the website. I'm not doing all the parts of the template, but borrowing the header and menu. The header looks quite nice. I'll need to play around with the CSS on some of the elements once I'm done with the menu. I started work on the menu by dividing the tabs into breakfast, lunch, and dinner. So far I've been working on adding the food items to the breakfast section, but they haven't appeared on the preview. Tomorrow I'm going to look through the code to see what could be causing the bug and try to fix it.
+
+**Link(s) to work**: [30 Days 30 Sites Day 5-Restaurant Menu](https://codepen.io/BritishPandaChick/full/zEGreo/)
+
+### Day 30: September 15, 2017
+
+**Today's Progress**: Finished making menu. Found issues with the header and nav bar. Added some JavaScript to make the menu items appear on web page.
+
+**Thoughts** Consulted the W3schools template to see what was wrong with my menu and realized their page worked with some JavaScript. Added a function to get the menu items to appear in the menu area of the web page. Once I added the function, everything started to appear on the page. Besides adding new content, I added more menu items to the menu and changed some of the text in the header area.
+
+**Link(s) to work**: [30 Days 30 Sites Day 5-Restaurant Menu](https://codepen.io/BritishPandaChick/full/zEGreo/)
