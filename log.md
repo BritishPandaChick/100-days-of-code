@@ -235,3 +235,11 @@
 **Thoughts** Consulted the W3schools template to see what was wrong with my menu and realized their page worked with some JavaScript. Added a function to get the menu items to appear in the menu area of the web page. Once I added the function, everything started to appear on the page. Besides adding new content, I added more menu items to the menu and changed some of the text in the header area.
 
 **Link(s) to work**: [30 Days 30 Sites Day 5-Restaurant Menu](https://codepen.io/BritishPandaChick/full/zEGreo/)
+
+### Day 31: September 16, 2017
+
+**Today's Progress**: Made a monster for Daily CSS Images. Tried making the staypuft marshmallow man from the original Ghostbusters movie.
+
+**Thoughts** I wasn't quite sure what monster to make, but I decided to make the staypuft marshmallow man's face since I had marshmallows on the brain and the facial design itself was very simple to make. Everything started off well on CodePen with the face. I did a really good job on the eyes and getting the head. I did some googling and looked at some of my previous projects to see how to do the mouth. I ultimately found a tutorial on Google and based my mouth on the design they used. The biggest struggle is the hat. I was playing with the transform property in CSS, but I was having a hard time getting the top and middle to get close to each other with the margins. I did the best I could, but it doesn't quite fit on the side of the head like the one in the movie.
+
+**Link(s) to work**: [Daily CSS Images Day 19-Monster](https://codepen.io/BritishPandaChick/full/MEabxm/)
