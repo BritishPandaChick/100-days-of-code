@@ -243,3 +243,11 @@
 **Thoughts** I wasn't quite sure what monster to make, but I decided to make the staypuft marshmallow man's face since I had marshmallows on the brain and the facial design itself was very simple to make. Everything started off well on CodePen with the face. I did a really good job on the eyes and getting the head. I did some googling and looked at some of my previous projects to see how to do the mouth. I ultimately found a tutorial on Google and based my mouth on the design they used. The biggest struggle is the hat. I was playing with the transform property in CSS, but I was having a hard time getting the top and middle to get close to each other with the margins. I did the best I could, but it doesn't quite fit on the side of the head like the one in the movie.
 
 **Link(s) to work**: [Daily CSS Images Day 19-Monster](https://codepen.io/BritishPandaChick/full/MEabxm/)
+
+### Day 32: September 17, 2017
+
+**Today's Progress**: Made a werewolf for Daily CSS Images.
+
+**Thoughts** I wanted to make a basic werewolf for this project and played around the face before going to CodePen for inspiration. I found one example I liked and tried to mimic what was done in the code. The biggest challenge was the mouth. I wasn't having much luck making a werewolf mouth I liked. I instead went back to my vampire images code and borrowed the mouth code I used from there to make the mouth.
+
+**Link(s) to work**: [Daily CSS Images Day 20-Werewolf](https://codepen.io/BritishPandaChick/full/LzpBWq/)
