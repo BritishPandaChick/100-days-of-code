@@ -251,3 +251,11 @@
 **Thoughts** I wanted to make a basic werewolf for this project and played around the face before going to CodePen for inspiration. I found one example I liked and tried to mimic what was done in the code. The biggest challenge was the mouth. I wasn't having much luck making a werewolf mouth I liked. I instead went back to my vampire images code and borrowed the mouth code I used from there to make the mouth.
 
 **Link(s) to work**: [Daily CSS Images Day 20-Werewolf](https://codepen.io/BritishPandaChick/full/LzpBWq/)
+
+### Day 33: September 18, 2017
+
+**Today's Progress**: Make basic version of superman from CodePen design.
+
+**Thoughts** I wasn't sure how to tackle this project so I wanted to try replicating one of the animated CodePen designs I saw for the challenge. This design was pretty basic especially for the face and body. My goal was just to get the face and body to appear. After I achieved this, I did try playing around to see if I could get the S symbol to appear on his body, but I only got a straight line of yellow and black. I decided to scrap the work I made on the S and just include a link of what I was able to accomplish with the head and body. Despite the challenges, I think I'm getting better at understanding some of the newer CSS means in some of the CodePen designs and am getting more courage playing with the Clippy tool the challenge suggests.
+
+**Link(s) to work**: [Daily CSS Images Day 21-Superman](https://codepen.io/BritishPandaChick/full/yzePjo/)
