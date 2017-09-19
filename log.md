@@ -259,3 +259,11 @@
 **Thoughts** I wasn't sure how to tackle this project so I wanted to try replicating one of the animated CodePen designs I saw for the challenge. This design was pretty basic especially for the face and body. My goal was just to get the face and body to appear. After I achieved this, I did try playing around to see if I could get the S symbol to appear on his body, but I only got a straight line of yellow and black. I decided to scrap the work I made on the S and just include a link of what I was able to accomplish with the head and body. Despite the challenges, I think I'm getting better at understanding some of the newer CSS means in some of the CodePen designs and am getting more courage playing with the Clippy tool the challenge suggests.
 
 **Link(s) to work**: [Daily CSS Images Day 21-Superman](https://codepen.io/BritishPandaChick/full/yzePjo/)
+
+### Day 34: September 19, 2017
+
+**Today's Progress**: Made the logo of Green Lantern using CSS.
+
+**Thoughts** I saw a really good example of the logo on CodePen that I wanted to try replicating for the basic design. Only problem making the logo was that one of the sides of the logo wasn't appearing. I double checked the CSS and HTML, but wasn't able to find the error at first. I eventually realized I misspelled width property for the middle of my lantern logo. Once I fixed my mistake, the entire circle appeared instead of a C shape. I'll have to be extra careful as I work with CSS in the future.
+
+**Link(s) to work**: [Daily CSS Images Day 22-Green Lantern](https://codepen.io/BritishPandaChick/full/jGqyZM/)
