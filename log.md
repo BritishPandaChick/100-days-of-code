@@ -267,3 +267,11 @@
 **Thoughts** I saw a really good example of the logo on CodePen that I wanted to try replicating for the basic design. Only problem making the logo was that one of the sides of the logo wasn't appearing. I double checked the CSS and HTML, but wasn't able to find the error at first. I eventually realized I misspelled width property for the middle of my lantern logo. Once I fixed my mistake, the entire circle appeared instead of a C shape. I'll have to be extra careful as I work with CSS in the future.
 
 **Link(s) to work**: [Daily CSS Images Day 22-Green Lantern](https://codepen.io/BritishPandaChick/full/jGqyZM/)
+
+### Day 35: September 20, 2017
+
+**Today's Progress**: Made Wolverine's face in CSS.
+
+**Thoughts** I saw another great design on CodePen that I tried replicating on my own. The sides of the mask were uneven. The left side was shorter than the right side. After looking at the code, I wasn't able to figure it out. I eventually figured it out by commenting out sections of the code to look for errors. I particularly focused on left and right sections of the mask to see why one size was small. It turns out the left side div tag was using the wrong punctuation mark. Once I fixed it, the left side was the same size as the right.
+
+**Link(s) to work**: [Daily CSS Images Day 23-Wolverine](https://codepen.io/BritishPandaChick/full/KXMKyV/)
