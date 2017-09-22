@@ -275,3 +275,9 @@
 **Thoughts** I saw another great design on CodePen that I tried replicating on my own. The sides of the mask were uneven. The left side was shorter than the right side. After looking at the code, I wasn't able to figure it out. I eventually figured it out by commenting out sections of the code to look for errors. I particularly focused on left and right sections of the mask to see why one size was small. It turns out the left side div tag was using the wrong punctuation mark. Once I fixed it, the left side was the same size as the right.
 
 **Link(s) to work**: [Daily CSS Images Day 23-Wolverine](https://codepen.io/BritishPandaChick/full/KXMKyV/)
+
+### Day 36: September 21, 2017
+
+**Today's Progress**: Finished debugging the election map for the JavaScript 102 review.
+
+**Thoughts** Before I started changing my code, I read things over to see if I could spot any misspellings. I ran a test to see what areas I should look at first. The states that were a draw were one of the areas I was uncertain so I knew I needed to check the party colors and state winner functions. I saw other members of the JavaScript 102 group had maps with all the states changing colors so I knew that was a priority. At first I wasn't able to find anything wrong. I decided to change the factory function I wrote at the beginning to see if that would help. However I forgot to change one of the variables in one of the functions so none of the colors appeared on the map. I figured out which one I missed and fixed things right away. Then it was back to searching for the error. It took me a while, but I found it in the party color function. I added rgb in front of the [] which wasn't needed in the if-else statement. Once I removed the rgb, the states that were a DRAW finally changed color to blue.
