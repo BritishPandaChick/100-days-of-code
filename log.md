@@ -281,3 +281,11 @@
 **Today's Progress**: Finished debugging the election map for the JavaScript 102 review.
 
 **Thoughts** Before I started changing my code, I read things over to see if I could spot any misspellings. I ran a test to see what areas I should look at first. The states that were a draw were one of the areas I was uncertain so I knew I needed to check the party colors and state winner functions. I saw other members of the JavaScript 102 group had maps with all the states changing colors so I knew that was a priority. At first I wasn't able to find anything wrong. I decided to change the factory function I wrote at the beginning to see if that would help. However I forgot to change one of the variables in one of the functions so none of the colors appeared on the map. I figured out which one I missed and fixed things right away. Then it was back to searching for the error. It took me a while, but I found it in the party color function. I added rgb in front of the [] which wasn't needed in the if-else statement. Once I removed the rgb, the states that were a DRAW finally changed color to blue.
+
+### Day 37: September 22, 2017
+
+**Today's Progress**: Edited Codeacademy HTML website for HTML & CSS course.
+
+**Thoughts** I've been meaning to redo some of my code and upload some of my projects to separate repositories on Github. I went on CodePen to my Codeacademy site I made when I originally started Codeacademy and made some changes to some of the code. I added new HTML tags to get the code organized and used this project as an opportunity to play around with some of the CSS. I did try out some Bootstrap, but I scrapped it after playing around with some of the paragraphs.
+
+**Link(s) to work**: [Codeacademy HTML Website](https://codepen.io/BritishPandaChick/full/yJLOWR/)
