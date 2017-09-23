@@ -289,3 +289,11 @@
 **Thoughts** I've been meaning to redo some of my code and upload some of my projects to separate repositories on Github. I went on CodePen to my Codeacademy site I made when I originally started Codeacademy and made some changes to some of the code. I added new HTML tags to get the code organized and used this project as an opportunity to play around with some of the CSS. I did try out some Bootstrap, but I scrapped it after playing around with some of the paragraphs.
 
 **Link(s) to work**: [Codeacademy HTML Website](https://codepen.io/BritishPandaChick/full/yJLOWR/)
+
+### Day 38: September 23, 2017
+
+**Today's Progress**: Edited Social Profile project for Codeacademy HTML & CSS course.
+
+**Thoughts** I decided to try playing around with more Bootstrap for today's project goal. I wanted to update the social profile website I made from Codeacademy so I used it as an opportunity to play around with bootstrap and add some CSS style to the project. The biggest problem was the background. On CodePen, the gray background shows up just fine. However the code on my computer won't show the gray background. Instead the background is still white which makes it hard to see any of the content. I tested my code JSFiddle and JSBin where all my code is working just fine in the browser. I'm going to have to look at the head tag on my files to see if there is anything missing that could be affecting why the background color isn't appearing on my site.
+
+**Link(s) to work**: [Sarah Bartley Social Profile Project](https://codepen.io/BritishPandaChick/full/pyMOgN/)
