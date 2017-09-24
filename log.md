@@ -297,3 +297,11 @@
 **Thoughts** I decided to try playing around with more Bootstrap for today's project goal. I wanted to update the social profile website I made from Codeacademy so I used it as an opportunity to play around with bootstrap and add some CSS style to the project. The biggest problem was the background. On CodePen, the gray background shows up just fine. However the code on my computer won't show the gray background. Instead the background is still white which makes it hard to see any of the content. I tested my code JSFiddle and JSBin where all my code is working just fine in the browser. I'm going to have to look at the head tag on my files to see if there is anything missing that could be affecting why the background color isn't appearing on my site.
 
 **Link(s) to work**: [Sarah Bartley Social Profile Project](https://codepen.io/BritishPandaChick/full/pyMOgN/)
+
+### Day 39: September 24, 2017
+
+**Today's Progress**: Made Iron Man's mask using HTML & CSS.
+
+**Thoughts** I found a great example of Iron Man's mask on CodePen and did my best trying to replicate the design. The mask isn't as simple as it looks since there are so many corners on the mask. The biggest challenge was just getting the gold part of the mask to look less like blocks trying to connect with each other. The rotate property took some time to play with the different degrees, but I double checked my code with the one in the original CodePen file and found I was getting close to what was in the original.
+
+**Link(s) to work**: [Daily CSS Images Day 24 Iron Man](https://codepen.io/BritishPandaChick/full/yzVvRx/)
