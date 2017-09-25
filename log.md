@@ -305,3 +305,11 @@
 **Thoughts** I found a great example of Iron Man's mask on CodePen and did my best trying to replicate the design. The mask isn't as simple as it looks since there are so many corners on the mask. The biggest challenge was just getting the gold part of the mask to look less like blocks trying to connect with each other. The rotate property took some time to play with the different degrees, but I double checked my code with the one in the original CodePen file and found I was getting close to what was in the original.
 
 **Link(s) to work**: [Daily CSS Images Day 24 Iron Man](https://codepen.io/BritishPandaChick/full/yzVvRx/)
+
+### Day 40: September 25, 2017
+
+**Today's Progress**: Made Captain America's shield using HTML & CSS.
+
+**Thoughts** I wanted to make Captain America's shield for this challenge and looked at how some of the other people tackled this challenge on CodePen. I decided to replicate one of the designs on CodePen. The challenge was the star on the shield. The star wasn't coming together on my shield. I knew I probably had a misspelling somewhere in my code since the parts of the star were appearing in the output, but they weren't together. I looked at each of the properties, but I focused on the border properties to see if there was a misspelling. I finally found it in one of the border properties for shield-star. Once I fixed this error, it started to look like a star.
+
+**Link(s) to work**: [Daily CSS Images Challenge Day 25 Captain America](https://codepen.io/BritishPandaChick/full/XepeGo/)
