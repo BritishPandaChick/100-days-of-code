@@ -313,3 +313,11 @@
 **Thoughts** I wanted to make Captain America's shield for this challenge and looked at how some of the other people tackled this challenge on CodePen. I decided to replicate one of the designs on CodePen. The challenge was the star on the shield. The star wasn't coming together on my shield. I knew I probably had a misspelling somewhere in my code since the parts of the star were appearing in the output, but they weren't together. I looked at each of the properties, but I focused on the border properties to see if there was a misspelling. I finally found it in one of the border properties for shield-star. Once I fixed this error, it started to look like a star.
 
 **Link(s) to work**: [Daily CSS Images Challenge Day 25 Captain America](https://codepen.io/BritishPandaChick/full/XepeGo/)
+
+### Day 41: September 26, 2017
+
+**Today's Progress**: Edited clickable photo page project from Codeacademy.
+
+**Thoughts** Some of the images from my original attempt at this project were no longer available so I decided to update the project with new content. I added new links to images and used CSS to change the colors of the table and the table header. Added a footer at the bottom of the page and was going to do a white background, but decided to keep thing simple when the footer wouldn't extend the full length of the page. The only thing I will need to play around with are the images. The size of the images are too big that it makes a horizontal scroll bar at the bottom. I will see if I can make the images smaller so the horizontal bar will disappear.
+
+**Link(s) to work**: [Codeacademy Clickable Photo Page](https://codepen.io/BritishPandaChick/full/BKXOqz/)
