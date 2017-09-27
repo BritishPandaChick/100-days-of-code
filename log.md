@@ -321,3 +321,12 @@
 **Thoughts** Some of the images from my original attempt at this project were no longer available so I decided to update the project with new content. I added new links to images and used CSS to change the colors of the table and the table header. Added a footer at the bottom of the page and was going to do a white background, but decided to keep thing simple when the footer wouldn't extend the full length of the page. The only thing I will need to play around with are the images. The size of the images are too big that it makes a horizontal scroll bar at the bottom. I will see if I can make the images smaller so the horizontal bar will disappear.
 
 **Link(s) to work**: [Codeacademy Clickable Photo Page](https://codepen.io/BritishPandaChick/full/BKXOqz/)
+
+### Day 42: September 27, 2017
+
+**Today's Progress**: Edited Design a Button project. Add footer and fixed borders. Edited Sort Friends project.
+
+**Thoughts** I did two projects today instead of one since both tasks were easy and didn't have much changes to make. I spent most of my time playing around with the button project to see if I could improve the design with CSS. Although I played with the size, I went with the original look. Biggest challenge was getting the text in the button to not be too close to the border. I played with the top padding to get the right spacing between the two. Sorting friends project was mostly changing around the content. I did fix the CSS for the div tags so the text wasn't rising to the top of the circle.
+
+**Link(s) to work**: [Codeacademy Design a Button](https://codepen.io/BritishPandaChick/full/VjZLZZ/)
+[Codeacademy Sort Friends](https://codepen.io/BritishPandaChick/full/LZPvEe/)
