@@ -330,3 +330,11 @@
 
 **Link(s) to work**: [Codeacademy Design a Button](https://codepen.io/BritishPandaChick/full/VjZLZZ/)
 [Codeacademy Sort Friends](https://codepen.io/BritishPandaChick/full/LZPvEe/)
+
+### Day 43: September 28, 2017
+
+**Today's Progress**: Made a book/author website for 30 Days, 30 Sites challenge.
+
+**Thoughts** I was originally planning on just using HTML & CSS to make this site. After reading the challenge notes, I decided to use this project as an opportunity to play with Bootstrap. The website itself is very simple because of that reason. The challenge with the Bootstrap is when my footer kept trying to rise up along with some of my sections. I tried changing the class names, but the best way which worked for me was just closing the container div tag. Once I closed my first container div tag, the footer stayed at the bottom of the page.
+
+**Link(s) to work**: [30 Days 30 Sites Book/Author](https://codepen.io/BritishPandaChick/full/RLgbpe/)
