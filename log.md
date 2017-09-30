@@ -346,3 +346,9 @@
 **Thoughts** I added some structure tags to the HTML to keep different areas organized (i.e. footer, header, sections). I added the copyright info at the bottom of the web page. On the stylesheet, I played around with the style especially the dimensions for the width and height. I changed the font sizes, colors, and font families. Added margins and position to some of the sections.
 
 **Link(s) to work**: [Codeacademy Resume Website](https://codepen.io/BritishPandaChick/full/zBYqzm/)
+
+### Day 45: September 30, 2017
+
+**Today's Progress**:
+**Thoughts**
+**Link(s) to work**: []()
