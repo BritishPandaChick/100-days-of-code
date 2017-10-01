@@ -349,6 +349,15 @@
 
 ### Day 45: September 30, 2017
 
-**Today's Progress**:
-**Thoughts**
-**Link(s) to work**: []()
+**Today's Progress**: Updated and debugged Codeacademy Address Book from Codeacademy JavaScript section.
+
+**Thoughts** When I looked at the code I originally had for this project, almost all my functions were missing. So I decided to try this project again as extra project and debug the code I had left. This project took some time because I kept getting an undefined error in the console saying "Bob undefined" or "Mary undefined". I tried changing around some of the functions, but this resulted in the tests saying Steve Jobs wasn't added to the array. An hour later, I realized lastName was written as lastname in one of the functions. Once I changed this, the last names started to appear in the console on CodePen.
+
+**Link(s) to work**: [Codeacademy Address Book](https://codepen.io/BritishPandaChick/pen/rLMRmx?editors=0012)
+
+### Day 46: October 1, 2017
+**Today's Progress**: Added HTML file for cash register project. Updated cash register code.
+
+**Thoughts** I added an HTML file for the cash register project then spent most of my time debugging my code. I kept getting a reference error for the staff discounts so I spent most of my time looking at this area to see if I could find an error. I realized I was using the wrong variable when I was trying to call the function later in my code. Once I changed "me" to "sarah", the code started to show the total. Besides fixing errors, I added comments to help keep my code organized and document progress.
+
+**Link(s) to work**: [Codeacademy Cash Register](https://codepen.io/BritishPandaChick/pen/jrBzrz?editors=0012)
