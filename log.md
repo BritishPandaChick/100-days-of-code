@@ -356,8 +356,19 @@
 **Link(s) to work**: [Codeacademy Address Book](https://codepen.io/BritishPandaChick/pen/rLMRmx?editors=0012)
 
 ### Day 46: October 1, 2017
+
 **Today's Progress**: Added HTML file for cash register project. Updated cash register code.
 
 **Thoughts** I added an HTML file for the cash register project then spent most of my time debugging my code. I kept getting a reference error for the staff discounts so I spent most of my time looking at this area to see if I could find an error. I realized I was using the wrong variable when I was trying to call the function later in my code. Once I changed "me" to "sarah", the code started to show the total. Besides fixing errors, I added comments to help keep my code organized and document progress.
 
 **Link(s) to work**: [Codeacademy Cash Register](https://codepen.io/BritishPandaChick/pen/jrBzrz?editors=0012)
+
+
+### Day 47: October 2, 2017
+
+**Today's Progress**: Updated and edited Code Your Own Adventure game from Codeacademy JavaScript section. Made icon of choice for Daily CSS Images.
+
+**Thoughts** Added an HTML page to Code Your Own Adventure Game, but spent most of the time debugging the JavaScript in the console. There weren't too many errors in the game file, so I made an icon from the Daily CSS Images. I decided to replicate the app store icon from a project I saw on CodePen. The pencil and the line were not in the right positions. I debugged my code and looked to see if there were any issues when I realized I put erase instead of eraser in the style sheet. Once I made changes, everything started to work just fine.
+
+**Link(s) to work**: [Codeacademy Code Your Own Adventure Game](https://codepen.io/BritishPandaChick/pen/VjLvWv?editors=0011)
+[Daily CSS Images Challenge Day 26 Icon of Choice](https://codepen.io/BritishPandaChick/full/pWWbNb/)
