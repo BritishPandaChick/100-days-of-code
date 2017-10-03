@@ -372,3 +372,12 @@
 
 **Link(s) to work**: [Codeacademy Code Your Own Adventure Game](https://codepen.io/BritishPandaChick/pen/VjLvWv?editors=0011)
 [Daily CSS Images Challenge Day 26 Icon of Choice](https://codepen.io/BritishPandaChick/full/pWWbNb/)
+
+### Day 48: October 3, 2017
+
+**Today's Progress**: Debug 2nd Code Your Own Adventure Game. Debug contact list. Both projects from Codeacademy JavaScript course.
+
+**Thoughts** Debugged two JavaScript projects today. Added two new HTML files for both projects. Changed some of the names in Code Your Adventure Game. Took extra time to read code to understand what the code was trying to do.
+
+**Link(s) to work**: [Codeacademy Code Your Own Adventure Game 2](https://codepen.io/BritishPandaChick/pen/QENWYv?editors=0012)
+[Codeacademy Contact List](https://codepen.io/BritishPandaChick/pen/xOVoEP?editors=0011)
