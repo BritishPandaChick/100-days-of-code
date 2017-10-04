@@ -381,3 +381,11 @@
 
 **Link(s) to work**: [Codeacademy Code Your Own Adventure Game 2](https://codepen.io/BritishPandaChick/pen/QENWYv?editors=0012)
 [Codeacademy Contact List](https://codepen.io/BritishPandaChick/pen/xOVoEP?editors=0011)
+
+### Day 49: October 4, 2017
+
+**Today's Progress**: Debug dragon slayer game from Codeacademy JavaScript course.
+
+**Thoughts** Added new HTML file. Initial test said one of the variables was undefined. Found that the variable for damageThisRound missing a d. Changed the variable and double checked the variable in the while statement to see if there were any misspellings.
+
+**Link(s) to work**: [Codeacademy Dragon Slayer](https://codepen.io/BritishPandaChick/pen/aZdyYz?editors=0011)
