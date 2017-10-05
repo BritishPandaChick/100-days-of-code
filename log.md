@@ -389,3 +389,11 @@
 **Thoughts** Added new HTML file. Initial test said one of the variables was undefined. Found that the variable for damageThisRound missing a d. Changed the variable and double checked the variable in the while statement to see if there were any misspellings.
 
 **Link(s) to work**: [Codeacademy Dragon Slayer](https://codepen.io/BritishPandaChick/pen/aZdyYz?editors=0011)
+
+### Day 50: October 5, 2017
+
+**Today's Progress**: Made the safari icon using HTML & CSS.
+
+**Thoughts** When I made my last icon for the Daily CSS Images challenge, I saw this safari icon someone made on CodePen that I almost made instead for day 47. Today I was in the mood to make something instead of debugging just code so I decided to make the safari icon I had seen before. This project was a challenge because of the triangles on the compass of the icon. I had to look at what the author did for his code to see how he managed to get the triangles close to each other. Had trouble getting the E to get to move from the left to the right, but was able to find the error quickly and fix it.
+
+**Link(s) to work**: [Daily CSS Images Day 27 Icon of Choice 2](https://codepen.io/BritishPandaChick/full/qPpMWo/)
