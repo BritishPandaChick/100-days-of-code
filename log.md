@@ -397,3 +397,11 @@
 **Thoughts** When I made my last icon for the Daily CSS Images challenge, I saw this safari icon someone made on CodePen that I almost made instead for day 47. Today I was in the mood to make something instead of debugging just code so I decided to make the safari icon I had seen before. This project was a challenge because of the triangles on the compass of the icon. I had to look at what the author did for his code to see how he managed to get the triangles close to each other. Had trouble getting the E to get to move from the left to the right, but was able to find the error quickly and fix it.
 
 **Link(s) to work**: [Daily CSS Images Day 27 Icon of Choice 2](https://codepen.io/BritishPandaChick/full/qPpMWo/)
+
+### Day 51: October 6, 2017
+
+**Today's Progress**: Debug rock, paper, scissors game for Codeacademy JavaScript section.
+
+**Thoughts** Created a brand new HTML file for project, but most focus was on debugging the code. Reading the JS code I wrote as I debug helps me get a better understanding what the code is doing. Played around with some of the number values for the computerChoice's if-else statement to see what happened in my code.
+
+**Link(s) to work**: [Rock, Paper, Scissors Game](https://codepen.io/BritishPandaChick/pen/rLVgOW?editors=0011)
