@@ -405,3 +405,11 @@
 **Thoughts** Created a brand new HTML file for project, but most focus was on debugging the code. Reading the JS code I wrote as I debug helps me get a better understanding what the code is doing. Played around with some of the number values for the computerChoice's if-else statement to see what happened in my code.
 
 **Link(s) to work**: [Rock, Paper, Scissors Game](https://codepen.io/BritishPandaChick/pen/rLVgOW?editors=0011)
+
+### Day 52: October 7, 2017
+
+**Today's Progress**: Debug Codeacademy Search Text for Name project from JavaScript course.
+
+**Thoughts** Added HTML file. Debugged the for loop in the script file. Need to be careful with the semi-colons. I missed one in the for loop and got an error when I did some testing.
+
+**Link(s) to work**: [Codeacademy Search Text for Name](https://codepen.io/BritishPandaChick/pen/JKYgVb?editors=0012)
