@@ -413,3 +413,12 @@
 **Thoughts** Added HTML file. Debugged the for loop in the script file. Need to be careful with the semi-colons. I missed one in the for loop and got an error when I did some testing.
 
 **Link(s) to work**: [Codeacademy Search Text for Name](https://codepen.io/BritishPandaChick/pen/JKYgVb?editors=0012)
+
+### Day 53: October 8, 2017
+
+**Today's Progress**: Debug drop down menu project from Codeacademy jQuery section. Made cogs for Daily CSS Images challenge.
+
+**Thoughts** Quickly debug drop down menu project. Used the extra time to make some cogs for the Daily CSS Images challenge. I didn't want to use animation for the cogs, but I found a project I wanted to replicate on CodePen. The challenge was getting the cogs to look less like * and more like a cog. I had to play around with the degrees for the cogs to get mine to look similar to the project inspiration I was using. Upon looking at the inspiration code, I noticed they used .cog + .cog to make individual edges of the cog. I tried this in my code and it made things so much easier.
+
+**Link(s) to work**: [Codeacademy Drop Down Menu](https://codepen.io/BritishPandaChick/full/JKJKgo/)
+[Daily CSS Images Day 28 Cogs](https://codepen.io/BritishPandaChick/full/PJRKbX/)
