@@ -422,3 +422,12 @@
 
 **Link(s) to work**: [Codeacademy Drop Down Menu](https://codepen.io/BritishPandaChick/full/JKJKgo/)
 [Daily CSS Images Day 28 Cogs](https://codepen.io/BritishPandaChick/full/PJRKbX/)
+
+### Day 54: October 9, 2017
+
+**Today's Progress**: Debug jQuery button project from Codeacademy jQuery section. Started working on day 7 trailer/movie page for 30 Days, 30 Sites challenge.
+
+**Thoughts** Debug jQuery button project code. Once I finished, I started working on the trailer/movie page for 30 Days, 30 Sites. I worked on most of the basic structure of the website. I didn't stick to the original color palette used for the movie but played around with a color palette from colorpalettes.net that looked a little more festive. Managed to find a font closest to the one used for the movie. Originally was going to have a h3 tag in the header indicating it is based on a true story, but removed it in favor of adding the poster instead. Not quite sure what else to add to the website. Thinking about moving the release date up on the website. Will put finishing touches on site tomorrow.
+
+**Link(s) to work**: [Codeacademy jQuery button project](https://codepen.io/BritishPandaChick/full/GqWJvg/)
+[30 Days 30 Sites Day 7 Trailer/Movie Page](https://codepen.io/BritishPandaChick/full/pWVjgK/)
