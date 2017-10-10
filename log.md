@@ -431,3 +431,11 @@
 
 **Link(s) to work**: [Codeacademy jQuery button project](https://codepen.io/BritishPandaChick/full/GqWJvg/)
 [30 Days 30 Sites Day 7 Trailer/Movie Page](https://codepen.io/BritishPandaChick/full/pWVjgK/)
+
+### Day 55: October 10, 2017
+
+**Today's Progress**: Finish trailer/movie page for 30 Days, 30 Sites Challenge.
+
+**Thoughts** Removed the release date from the navigation and added section for the cast. Added em tags for titles of movies. I might set list-style-type to none so the bullets don't appear for the cast, but for now I don't mind the bullets. Spent most of the time working on the CSS. Although it was fairly simple, I looked at other movie pages and noticed they are keeping everything on the page since most work will come from social media. Therefore I used this opportunity to play with the margins, padding, and even the float property for some of the elements. I played around with the preset width and height for the video so it would be bigger on the website. 
+
+**Link(s) to work**: [30 Days 30 Sites Day 7 Trailer/Movie](https://codepen.io/BritishPandaChick/full/pWVjgK/)
