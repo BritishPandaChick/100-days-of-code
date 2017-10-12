@@ -436,6 +436,14 @@
 
 **Today's Progress**: Finish trailer/movie page for 30 Days, 30 Sites Challenge.
 
-**Thoughts** Removed the release date from the navigation and added section for the cast. Added em tags for titles of movies. I might set list-style-type to none so the bullets don't appear for the cast, but for now I don't mind the bullets. Spent most of the time working on the CSS. Although it was fairly simple, I looked at other movie pages and noticed they are keeping everything on the page since most work will come from social media. Therefore I used this opportunity to play with the margins, padding, and even the float property for some of the elements. I played around with the preset width and height for the video so it would be bigger on the website. 
+**Thoughts** Removed the release date from the navigation and added section for the cast. Added em tags for titles of movies. I might set list-style-type to none so the bullets don't appear for the cast, but for now I don't mind the bullets. Spent most of the time working on the CSS. Although it was fairly simple, I looked at other movie pages and noticed they are keeping everything on the page since most work will come from social media. Therefore I used this opportunity to play with the margins, padding, and even the float property for some of the elements. I played around with the preset width and height for the video so it would be bigger on the website.
 
 **Link(s) to work**: [30 Days 30 Sites Day 7 Trailer/Movie](https://codepen.io/BritishPandaChick/full/pWVjgK/)
+
+### Day 56: October 11, 2017
+
+**Today's Progress**: Debug sliding panel project for Codeacademy jQuery.
+
+**Thoughts** Debug all code files and did testing. The jQuery wasn't working on my project when I tested locally in the browser so I double checked all the code in my script file to see if it was working. I couldn't find any errors in the script file so I double checked the CSS to see if the problem was coming from the CSS. Once I got to the HTML, I eventually realized I used link href for the link the jQuery instead of script src. I changed this in the head tag and the sliding panel began to work. Going back to double check previous projects and make changes.
+
+**Link(s) to work**: [Codeacademy Sliding Panel](https://codepen.io/BritishPandaChick/full/Gqmpoq/)
