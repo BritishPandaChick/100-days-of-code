@@ -447,3 +447,12 @@
 **Thoughts** Debug all code files and did testing. The jQuery wasn't working on my project when I tested locally in the browser so I double checked all the code in my script file to see if it was working. I couldn't find any errors in the script file so I double checked the CSS to see if the problem was coming from the CSS. Once I got to the HTML, I eventually realized I used link href for the link the jQuery instead of script src. I changed this in the head tag and the sliding panel began to work. Going back to double check previous projects and make changes.
 
 **Link(s) to work**: [Codeacademy Sliding Panel](https://codepen.io/BritishPandaChick/full/Gqmpoq/)
+
+### Day 57: October 12, 2017
+
+**Today's Progress**: Debug sprite project from Codeacademy jQuery section. Started to work on celebrity fan page.
+
+**Thoughts** Debug all code files for jQuery section. Made sure the head tag links to the jQuery said script this time. Used the extra time to start working on celebrity fan page. Had a hard time figuring out what celebrity I wanted to make a fan page for. I went back through different celebrities, but the common problem was not having enough content to make a website. I ultimately went back to my original idea which is making a fan page for Colin Firth. Managed to make the navigation, header, and footer. Wasn't able to accomplish too much coding since I kept making and deleting code for different celebrities.
+
+**Link(s) to work**: [Codeacademy Sprite Project](https://codepen.io/BritishPandaChick/full/wWZwVG/)
+[30 Days, 30 Sites Celebrity Fan page](https://codepen.io/BritishPandaChick/full/qPywQa/)
