@@ -455,4 +455,12 @@
 **Thoughts** Debug all code files for jQuery section. Made sure the head tag links to the jQuery said script this time. Used the extra time to start working on celebrity fan page. Had a hard time figuring out what celebrity I wanted to make a fan page for. I went back through different celebrities, but the common problem was not having enough content to make a website. I ultimately went back to my original idea which is making a fan page for Colin Firth. Managed to make the navigation, header, and footer. Wasn't able to accomplish too much coding since I kept making and deleting code for different celebrities.
 
 **Link(s) to work**: [Codeacademy Sprite Project](https://codepen.io/BritishPandaChick/full/wWZwVG/)
-[30 Days, 30 Sites Celebrity Fan page](https://codepen.io/BritishPandaChick/full/qPywQa/)
+[30 Days, 30 Sites Celebrity Fan Page](https://codepen.io/BritishPandaChick/full/qPywQa/)
+
+### Day 58: October 13, 2017
+
+**Today's Progress**: Finished celebrity fan page for 30 Days, 30 Sites challenge.
+
+**Thoughts** After giving extra thought to the project, I decided to change around the navigation and completely redesign the home page. I decided to put all the content for news on the home page as an unordered list. I embed a movie trailer onto the home page, trying to think of the call to action (CTA) that might be on a fan page for any website. Used rest of the time to play with the CSS and play with bootstrap. This included changing margins for the news content and playing around with some of the bootstrap elements for the header and container.
+
+**Link(s) to work**: [30 Days, 30 Sites Celebrity Fan Page](https://codepen.io/BritishPandaChick/full/qPywQa/)
