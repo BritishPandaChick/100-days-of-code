@@ -473,3 +473,11 @@
 
 **Link(s) to work**: [Codeacademy To Do List project](https://codepen.io/BritishPandaChick/full/jAmdpV/)
 [Daily CSS Images Day 29 Download Button](https://codepen.io/BritishPandaChick/full/YrJyvM/)
+
+### Day 60: October 15, 2017
+
+**Today's Progress**: Debug all Ruby projects for Codeacademy Ruby course.
+
+**Thoughts** Updated all the Ruby projects from the Codeacademy course. Used the projects as an opportunity to review some of the Ruby concepts and what was happening in the code.
+
+**Link(s) to work**: [Codeacademy Ruby Github Repository](https://github.com/BritishPandaChick/codeacademy-ruby)
