@@ -464,3 +464,12 @@
 **Thoughts** After giving extra thought to the project, I decided to change around the navigation and completely redesign the home page. I decided to put all the content for news on the home page as an unordered list. I embed a movie trailer onto the home page, trying to think of the call to action (CTA) that might be on a fan page for any website. Used rest of the time to play with the CSS and play with bootstrap. This included changing margins for the news content and playing around with some of the bootstrap elements for the header and container.
 
 **Link(s) to work**: [30 Days, 30 Sites Celebrity Fan Page](https://codepen.io/BritishPandaChick/full/qPywQa/)
+
+### Day 59: October 14, 2017
+
+**Today's Progress**: Debug to do list for Codeacademy jQuery project. Made download button for Daily CSS Images challenge.
+
+**Thoughts** Debug all the code files for the last jQuery project. The jQuery project had an extra }); near the end which caused some errors in the test. Once I removed this set, I was able to get the project to work. I used the extra time to make the next project in the Daily CSS Images challenge. I looked at a few sample projects to see how others tackled the download button and found one I wanted to replicate. I didn't add any JavaScript to this project, but I used the time to practice working with CSS. I used the project inspiration to google some of the properties being used to understand what they do and tried using them in my code.
+
+**Link(s) to work**: [Codeacademy To Do List project](https://codepen.io/BritishPandaChick/full/jAmdpV/)
+[Daily CSS Images Day 29 Download Button](https://codepen.io/BritishPandaChick/full/YrJyvM/)
