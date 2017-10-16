@@ -481,3 +481,11 @@
 **Thoughts** Updated all the Ruby projects from the Codeacademy course. Used the projects as an opportunity to review some of the Ruby concepts and what was happening in the code.
 
 **Link(s) to work**: [Codeacademy Ruby Github Repository](https://github.com/BritishPandaChick/codeacademy-ruby)
+
+### Day 61: October 16, 2017
+
+**Today's Progress**: Debug all the Python projects I've done so far the Codeacademy Python course.
+
+**Thoughts** Updated all Python projects I've completed so far from the Codeacademy course. Did a lot more review on some of the Python concepts. I'm planning on returning to Python sometime soon.
+
+**Link(s) to work**: [Codeacademy Python Github Repository](https://github.com/BritishPandaChick/codeacademy-python)
