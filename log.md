@@ -489,3 +489,17 @@
 **Thoughts** Updated all Python projects I've completed so far from the Codeacademy course. Did a lot more review on some of the Python concepts. I'm planning on returning to Python sometime soon.
 
 **Link(s) to work**: [Codeacademy Python Github Repository](https://github.com/BritishPandaChick/codeacademy-python)
+
+### Day 62: October 17, 2017
+
+**Today's Progress**: Debug first version of Free Code Camp tribute page project. Made a bar graph for Daily CSS Images challenge.
+
+**Thoughts** I started to debug some of the Free Code Camp projects. I fixed any bugs and errors on my original tribute page. Once I finished with the tribute page, I made a bar graph using HTML & CSS. I looked at a several different CodePen projects for inspiration and found one that was a tutorial on making an animated bar graph. I replicated the bar graph and added a h1 tag. I had to google some of the directions the tutorial wanted to understand what the code was suppose to do in the project, but I'm starting to become much more familiar with some of the CSS used to create animations and shapes.
+
+**Link(s) to work**: [Daily CSS Images Day 30 Bar Graph](https://codepen.io/BritishPandaChick/full/EwGyrw/)
+
+### Day 63: October 18, 2017
+
+**Today's Progress**:
+**Thoughts**
+**Link(s) to work**: []()
