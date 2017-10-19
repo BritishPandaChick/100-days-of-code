@@ -500,6 +500,8 @@
 
 ### Day 63: October 18, 2017
 
-**Today's Progress**:
-**Thoughts**
-**Link(s) to work**: []()
+**Today's Progress**: Debug Free Code Camp personal portfolio page. Made JavaScript logo for Daily CSS Images challenge.
+
+**Thoughts** Debug the first version of my portfolio site project I made for Free Code Camp. Now that I have a better sense of Bootstrap and CSS, I'm planning on making a better version of my portfolio site in the future. There weren't too many errors, but I did find some bugs which made things appear differently when I test the portfolio site locally than the one in CodePen. Once I finished, I pushed the project to Github. I used the rest of my time to build a CSS version of the JavaScript logo. I did use another CodePen project as reference especially with how they did the container for the text.
+
+**Link(s) to work**: [Daily CSS Images Challenge Day 31 JavaScript Logo](https://codepen.io/BritishPandaChick/full/EwrgYX/)
