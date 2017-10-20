@@ -513,3 +513,11 @@
 **Thoughts** Started working on the HTML for a brand new website. I wasn't quite sure how to approach the home page so I looked at the actual website the company uses to sell the dolls. Originally planned on giving separate pages for the dolls, but decided to try adding buttons onto the web page. Right now the buttons aren't functional. I'll have to play with the JavaScript to see if I can get them to work for another website.
 
 **Link(s) to work**: [30 Days 30 Sites Day 9 Children's Toy/Game](https://codepen.io/BritishPandaChick/full/XeGbmq/)
+
+### Day 65: October 20, 2017
+
+**Today's Progress**: Finished working on children's toy and game website. Focused on making buttons work on site.
+
+**Thoughts** Made a few changes to the HTML, but mostly added CSS to different sections. I moved the about us link in the navigation to the bottom nav menu. Most attention was playing with the buttons. I was going to try doing the buttons with CSS, but the google research suggested I stick with HTML & CSS instead. I tried playing around with the margins and padding for some of the sections, but I decided to keep things simple after trying different combinations.
+
+**Link(s) to work**: [30 Days 30 Sites Day 9 Children's Toy/Game](https://codepen.io/BritishPandaChick/full/XeGbmq/)
