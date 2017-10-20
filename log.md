@@ -505,3 +505,11 @@
 **Thoughts** Debug the first version of my portfolio site project I made for Free Code Camp. Now that I have a better sense of Bootstrap and CSS, I'm planning on making a better version of my portfolio site in the future. There weren't too many errors, but I did find some bugs which made things appear differently when I test the portfolio site locally than the one in CodePen. Once I finished, I pushed the project to Github. I used the rest of my time to build a CSS version of the JavaScript logo. I did use another CodePen project as reference especially with how they did the container for the text.
 
 **Link(s) to work**: [Daily CSS Images Challenge Day 31 JavaScript Logo](https://codepen.io/BritishPandaChick/full/EwrgYX/)
+
+### Day 64: October 19, 2017
+
+**Today's Progress**: Start building children's toy and game website. Added most of the HTML to the website.
+
+**Thoughts** Started working on the HTML for a brand new website. I wasn't quite sure how to approach the home page so I looked at the actual website the company uses to sell the dolls. Originally planned on giving separate pages for the dolls, but decided to try adding buttons onto the web page. Right now the buttons aren't functional. I'll have to play with the JavaScript to see if I can get them to work for another website.
+
+**Link(s) to work**: [30 Days 30 Sites Day 9 Children's Toy/Game](https://codepen.io/BritishPandaChick/full/XeGbmq/)
