@@ -521,3 +521,11 @@
 **Thoughts** Made a few changes to the HTML, but mostly added CSS to different sections. I moved the about us link in the navigation to the bottom nav menu. Most attention was playing with the buttons. I was going to try doing the buttons with CSS, but the google research suggested I stick with HTML & CSS instead. I tried playing around with the margins and padding for some of the sections, but I decided to keep things simple after trying different combinations.
 
 **Link(s) to work**: [30 Days 30 Sites Day 9 Children's Toy/Game](https://codepen.io/BritishPandaChick/full/XeGbmq/)
+
+### Day 66: October 21, 2017
+
+**Today's Progress**: Wrote HTML for next week's blog post coding tutorial. Add extracted images to website. Put images, links and assets on web page.
+
+**Thoughts** I did all the HTML for this Skillcrush portfolio project from Skillcrush 101. I made a version of this project before, but I'm doing this again for my blog post this week. I extracted all the images from the design files and put all HTML code in the index.html file. I copied all the code to a CodePen file so readers can reference back to the project throughout the posts to see how the site comes together. Overall it went ok. Only part that was challenging was the id in the footer. I reference back to my original code to see what I did before.
+
+**Link(s) to work**: [Skillcrush 101 Portfolio Site](https://codepen.io/BritishPandaChick/full/OxGNNP/)
