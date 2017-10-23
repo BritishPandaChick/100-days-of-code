@@ -529,3 +529,11 @@
 **Thoughts** I did all the HTML for this Skillcrush portfolio project from Skillcrush 101. I made a version of this project before, but I'm doing this again for my blog post this week. I extracted all the images from the design files and put all HTML code in the index.html file. I copied all the code to a CodePen file so readers can reference back to the project throughout the posts to see how the site comes together. Overall it went ok. Only part that was challenging was the id in the footer. I reference back to my original code to see what I did before.
 
 **Link(s) to work**: [Skillcrush 101 Portfolio Site](https://codepen.io/BritishPandaChick/full/OxGNNP/)
+
+### Day 67: October 22, 2017
+
+**Today's Progress**: Made the angular logo for Daily CSS Images challenge.
+
+**Thoughts** I found a CodePen project to try replicating on CodePen. The biggest challenge was the top of the logo. One of the details did not appear when I test my project. The issue came from one of the hex codes for one of the details. I comment out the rest of my code to best spot the issue and looked over each CSS property to find it. I added an extra number in one of the hex codes. Once I removed the extra number, the top detail appeared.
+
+**Link(s) to work**: [Daily CSS Images Challenge Day 32 Angular Logo](https://codepen.io/BritishPandaChick/full/QqPYJv/)
