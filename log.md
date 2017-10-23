@@ -537,3 +537,11 @@
 **Thoughts** I found a CodePen project to try replicating on CodePen. The biggest challenge was the top of the logo. One of the details did not appear when I test my project. The issue came from one of the hex codes for one of the details. I comment out the rest of my code to best spot the issue and looked over each CSS property to find it. I added an extra number in one of the hex codes. Once I removed the extra number, the top detail appeared.
 
 **Link(s) to work**: [Daily CSS Images Challenge Day 32 Angular Logo](https://codepen.io/BritishPandaChick/full/QqPYJv/)
+
+### Day 68: October 23, 2017
+
+**Today's Progress**: Made the Vue JS logo for Daily CSS Images challenge.
+
+**Thoughts** I never heard of Vue JS before so I read a bit about it in the link included from the e-mail. This project was another opportunity to play around with the shapes. It took a couple of tries, but I eventually found the right shapes for the logo. Even after I figured out the right measurements for the triangles, I still played around with the sizes of the shapes to try out different combinations.
+
+**Link(s) to work**: [Daily CSS Images Vue JS logo Day 33](https://codepen.io/BritishPandaChick/full/RLmMbw/)
