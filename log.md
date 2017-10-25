@@ -553,3 +553,11 @@
 **Thoughts** Looked at a few projects on CodePen before trying to replicate this project as well as reading about React from the link included in the email. I decided to play around with box shadow a bit. I removed it from my original design since it made the logo look like it was neon glowing. The biggest challenge with today's project was getting the logo itself to not rise up at the top of the page. During the CodePen full page test, the logo was cut off at the top from the top of the window. I did look at the inspiration code I used to see what the author did then played around with some of those elements in my code to get it to work.
 
 **Link(s) to work**: [Daily CSS Images React logo Day 34](https://codepen.io/BritishPandaChick/full/pWXVQm/)
+
+### Day 70: October 25, 2017
+
+**Today's Progress**: Made the Elm logo for Daily CSS Images Challenge.
+
+**Thoughts** Did some research on the logo for today's challenge and looked a few CodePen projects to see how I could tackle the logo. There were lots of different shapes in the logo which made it good for practicing the transform and clip-path properties. The challenge was getting the shapes to get right beside each other. I had to play with the right, top, and bottom properties on many of the elements to find the right fit.
+
+**Link(s) to work**: [Daily CSS Images Elm Logo Day 35](https://codepen.io/BritishPandaChick/full/MENpEL/)
