@@ -545,3 +545,11 @@
 **Thoughts** I never heard of Vue JS before so I read a bit about it in the link included from the e-mail. This project was another opportunity to play around with the shapes. It took a couple of tries, but I eventually found the right shapes for the logo. Even after I figured out the right measurements for the triangles, I still played around with the sizes of the shapes to try out different combinations.
 
 **Link(s) to work**: [Daily CSS Images Vue JS logo Day 33](https://codepen.io/BritishPandaChick/full/RLmMbw/)
+
+### Day 69: October 24, 2017
+
+**Today's Progress**: Made the React logo for Daily CSS Images challenge.
+
+**Thoughts** Looked at a few projects on CodePen before trying to replicate this project as well as reading about React from the link included in the email. I decided to play around with box shadow a bit. I removed it from my original design since it made the logo look like it was neon glowing. The biggest challenge with today's project was getting the logo itself to not rise up at the top of the page. During the CodePen full page test, the logo was cut off at the top from the top of the window. I did look at the inspiration code I used to see what the author did then played around with some of those elements in my code to get it to work.
+
+**Link(s) to work**: [Daily CSS Images React logo Day 34](https://codepen.io/BritishPandaChick/full/pWXVQm/)
