@@ -561,3 +561,11 @@
 **Thoughts** Did some research on the logo for today's challenge and looked a few CodePen projects to see how I could tackle the logo. There were lots of different shapes in the logo which made it good for practicing the transform and clip-path properties. The challenge was getting the shapes to get right beside each other. I had to play with the right, top, and bottom properties on many of the elements to find the right fit.
 
 **Link(s) to work**: [Daily CSS Images Elm Logo Day 35](https://codepen.io/BritishPandaChick/full/MENpEL/)
+
+### Day 71: October 26, 2017
+
+**Today's Progress**: Made a CSS holiday tree using a tutorial from CodeNewbie member.
+
+**Thoughts** I originally tried making this project last year, but I decided to redo this project and add a little more detail. I was much more picky with the CSS on this project to get the branches on top of each other and getting the star under the name on top of the site. I looked at the github repository to see what others have done with the star and made some tweaks to the CSS top property. I was going to add some ornaments to the tree, but I spent more time on the garland and decided to keep the project simple instead.
+
+**Link(s) to work**: [CSS Holiday Tree](https://codepen.io/BritishPandaChick/full/YEKVov/)
