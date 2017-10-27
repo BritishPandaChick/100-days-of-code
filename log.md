@@ -569,3 +569,11 @@
 **Thoughts** I originally tried making this project last year, but I decided to redo this project and add a little more detail. I was much more picky with the CSS on this project to get the branches on top of each other and getting the star under the name on top of the site. I looked at the github repository to see what others have done with the star and made some tweaks to the CSS top property. I was going to add some ornaments to the tree, but I spent more time on the garland and decided to keep the project simple instead.
 
 **Link(s) to work**: [CSS Holiday Tree](https://codepen.io/BritishPandaChick/full/YEKVov/)
+
+### Day 72: October 27, 2017
+
+**Today's Progress**: Add HTML to CSS Viking Christmas Tree tutorial. Start adding the project CSS.
+
+**Thoughts** Yesterday's project was originally based on this code so I decided to try this tutorial to see what I came up with. There wasn't a lot of HTML to add to this project so most of my time was spent on the CSS. The end result was my tree trunk in the middle of the page while the star is in the upper left hand corner while the tree branches are in the bottom left. I double checked the tutorial project code, but I keep getting the same results. I might have to revisit each section slowly and try playing with some of the CSS properties to see if I can get the branches on top of the trunk.
+
+**Link(s) to work**: [CSS Viking Christmas Tree](https://codepen.io/BritishPandaChick/pen/RjbQEJ?editors=1100)
