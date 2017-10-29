@@ -577,3 +577,11 @@
 **Thoughts** Yesterday's project was originally based on this code so I decided to try this tutorial to see what I came up with. There wasn't a lot of HTML to add to this project so most of my time was spent on the CSS. The end result was my tree trunk in the middle of the page while the star is in the upper left hand corner while the tree branches are in the bottom left. I double checked the tutorial project code, but I keep getting the same results. I might have to revisit each section slowly and try playing with some of the CSS properties to see if I can get the branches on top of the trunk.
 
 **Link(s) to work**: [CSS Viking Christmas Tree](https://codepen.io/BritishPandaChick/pen/RjbQEJ?editors=1100)
+
+### Day 73: October 28, 2017
+
+**Today's Progress**: Made a testimonial slider from Skillcrush code along.
+
+**Thoughts** Skillcrush did a code along alumni activity Friday afternoon. I wasn't able to attend the live event, but I took time today to do the coding activity. The project right now doesn't work on my computer. After taking to add code to the style and JS files, the project will only show a white screen with arrows. I started double checking the CSS especially with what was shown on the video demonstrations for the rest of the time. I will check out the JS file and the little bit of JS code on the HTML file tomorrow.
+
+**Link(s) to work**: [Testimonial Slider Project](https://github.com/BritishPandaChick/skillcrush-testimonial-slider)
