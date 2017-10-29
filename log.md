@@ -585,3 +585,11 @@
 **Thoughts** Skillcrush did a code along alumni activity Friday afternoon. I wasn't able to attend the live event, but I took time today to do the coding activity. The project right now doesn't work on my computer. After taking to add code to the style and JS files, the project will only show a white screen with arrows. I started double checking the CSS especially with what was shown on the video demonstrations for the rest of the time. I will check out the JS file and the little bit of JS code on the HTML file tomorrow.
 
 **Link(s) to work**: [Testimonial Slider Project](https://github.com/BritishPandaChick/skillcrush-testimonial-slider)
+
+### Day 74: October 29, 2017
+
+**Today's Progress**: Debug CSS Viking Holiday Tree project. Played with CSS to get the CSS properties bottom, margins, width, height, and position to get a tree.
+
+**Thoughts** After looking at the tutorial code and my current code on CodePen, I decided to redo the CSS styles completely. I tackled each part of the tree one at a time to play around with the CSS. I decided to revisit my code project from the first tree I made to help me with the CSS. The challenge was getting the star to sit right on top of the tree. I had to play around with the width, height, and bottom properties for these elements to get everything into place. My project doesn't look quite like the original tutorial, but it looks more like a tree than what I originally had.
+
+**Link(s) to work**: [CSS Viking Christmas Tree](https://codepen.io/BritishPandaChick/full/RjbQEJ/)
