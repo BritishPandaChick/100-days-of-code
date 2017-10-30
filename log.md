@@ -593,3 +593,11 @@
 **Thoughts** After looking at the tutorial code and my current code on CodePen, I decided to redo the CSS styles completely. I tackled each part of the tree one at a time to play around with the CSS. I decided to revisit my code project from the first tree I made to help me with the CSS. The challenge was getting the star to sit right on top of the tree. I had to play around with the width, height, and bottom properties for these elements to get everything into place. My project doesn't look quite like the original tutorial, but it looks more like a tree than what I originally had.
 
 **Link(s) to work**: [CSS Viking Christmas Tree](https://codepen.io/BritishPandaChick/full/RjbQEJ/)
+
+### Day 75: October 30, 2017
+
+**Today's Progress**: Debug testimonial slider project. Changed HTML, CSS, and JS files. Manage to get background working on project but slider won't run.
+
+**Thoughts** I double checked every variable used in the slider to make sure I had the right variables for both the HTML and the JS. After checking the variables, I started to check each line of code in all the code files. The HTML didn't have too many errors besides the wrong src link for the JS file. I made most of the changes to CSS and the JS files. The CSS file had rgb instead of rgba and one of the hex codes was incorrect. Once I made those changes, the background went from white to the coral-pink background used in the code along. When I test the slider in the browser, none of the text appears. Only the arrows and the dots appear where they don't work. I double check the Skillcrush simple slider github repository and made some more changes, but the issue still is happening. I get a feeling the issue is in the CSS rather than the JS file, but I'm triple checking both files again to see what the problem is.
+
+**Link(s) to work**: [Testimonial Slider Project](https://github.com/BritishPandaChick/skillcrush-testimonial-slider)
