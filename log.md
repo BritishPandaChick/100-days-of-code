@@ -609,3 +609,11 @@
 **Thoughts** I did a little debugging on the testimonial slider. I found a few spelling errors with the currentIndex variable. However it didn't fix the problem. I decided to take a break and build something for Halloween. I decided to make a CSS pumpkin for Halloween. I found a tutorial on codeplayer.com and tried coding along with the tutorial. I made a few errors. Most of these errors were for the eyes and mouth where I mixed up numbers for the border-radius property. Some of the properties had 0 0 100% 0 for both sides when only side needed this number combination. Once I made the combination 0 0 0 100%, the mouth started to even out instead of looking like a physical copy.
 
 **Link(s) to work**: [Codeplayer.com CSS Pumpkin](https://codepen.io/BritishPandaChick/full/WXvYqV/)
+
+### Day 77: November 1, 2017
+
+**Today's Progress**: Made blinking holiday lights using HTML & CSS.
+
+**Thoughts** I'm still trying to get familiar with some of the CSS properties especially ones which have the -webkit. The biggest mistake I made was not naming my ul tag strand at the beginning of the project. I was concentrated on making sure I had the right number of li tags and getting the right numbers for the box shadow properties that I forgot to name the ul class strand. Once I realized my error, I was able to quickly fix it. I still don't quite understand the :nth-child and how it works in CSS. I'll see if CSS tricks has some tips or do some research on Google to learn more.
+
+**Link(s) to work**: [Codeplayer.com CSS Blinking Holiday Lights](https://codepen.io/BritishPandaChick/full/wPKrGW/)
