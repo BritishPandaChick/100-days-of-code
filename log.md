@@ -601,3 +601,11 @@
 **Thoughts** I double checked every variable used in the slider to make sure I had the right variables for both the HTML and the JS. After checking the variables, I started to check each line of code in all the code files. The HTML didn't have too many errors besides the wrong src link for the JS file. I made most of the changes to CSS and the JS files. The CSS file had rgb instead of rgba and one of the hex codes was incorrect. Once I made those changes, the background went from white to the coral-pink background used in the code along. When I test the slider in the browser, none of the text appears. Only the arrows and the dots appear where they don't work. I double check the Skillcrush simple slider github repository and made some more changes, but the issue still is happening. I get a feeling the issue is in the CSS rather than the JS file, but I'm triple checking both files again to see what the problem is.
 
 **Link(s) to work**: [Testimonial Slider Project](https://github.com/BritishPandaChick/skillcrush-testimonial-slider)
+
+### Day 76: October 31, 2017
+
+**Today's Progress**: Made a CSS pumpkin. Debug more code from testimonial project.
+
+**Thoughts** I did a little debugging on the testimonial slider. I found a few spelling errors with the currentIndex variable. However it didn't fix the problem. I decided to take a break and build something for Halloween. I decided to make a CSS pumpkin for Halloween. I found a tutorial on codeplayer.com and tried coding along with the tutorial. I made a few errors. Most of these errors were for the eyes and mouth where I mixed up numbers for the border-radius property. Some of the properties had 0 0 100% 0 for both sides when only side needed this number combination. Once I made the combination 0 0 0 100%, the mouth started to even out instead of looking like a physical copy.
+
+**Link(s) to work**: [Codeplayer.com CSS Pumpkin](https://codepen.io/BritishPandaChick/full/WXvYqV/)
