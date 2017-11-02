@@ -617,3 +617,9 @@
 **Thoughts** I'm still trying to get familiar with some of the CSS properties especially ones which have the -webkit. The biggest mistake I made was not naming my ul tag strand at the beginning of the project. I was concentrated on making sure I had the right number of li tags and getting the right numbers for the box shadow properties that I forgot to name the ul class strand. Once I realized my error, I was able to quickly fix it. I still don't quite understand the :nth-child and how it works in CSS. I'll see if CSS tricks has some tips or do some research on Google to learn more.
 
 **Link(s) to work**: [Codeplayer.com CSS Blinking Holiday Lights](https://codepen.io/BritishPandaChick/full/wPKrGW/)
+
+### Day 78: November 2, 2017
+
+**Today's Progress**: Began doing the CSS style for Skillcrush portfolio site for blog site. Did base styles, about, header, contact, and work section CSS styles.
+
+**Thoughts** I began working on the CSS for the portfolio site I'm building as part of my blog series My Coding Journey. I added all the CSS styles for all the different sections and put comments documenting each section. I managed to do all the sections. I had to go into the HTML file to add a few ID tags in the contact section. The rest of the time was trying to get the same project to work on CodePen. I added the CSS from the main.css file to the CSS section, but the normalize.css file wasn't working quite right. I am playing around with external links to the normalize file mentioned in the normalize.css documentation to see if that works. So far most of it seems to work except for the e-mail in the contact section of the CodePen file.
