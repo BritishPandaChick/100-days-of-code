@@ -623,3 +623,11 @@
 **Today's Progress**: Began doing the CSS style for Skillcrush portfolio site for blog site. Did base styles, about, header, contact, and work section CSS styles.
 
 **Thoughts** I began working on the CSS for the portfolio site I'm building as part of my blog series My Coding Journey. I added all the CSS styles for all the different sections and put comments documenting each section. I managed to do all the sections. I had to go into the HTML file to add a few ID tags in the contact section. The rest of the time was trying to get the same project to work on CodePen. I added the CSS from the main.css file to the CSS section, but the normalize.css file wasn't working quite right. I am playing around with external links to the normalize file mentioned in the normalize.css documentation to see if that works. So far most of it seems to work except for the e-mail in the contact section of the CodePen file.
+
+### Day 79: November 3, 2017
+
+**Today's Progress**: Made a snowing effect website from Codeplayer.com website.
+
+**Thoughts** I wanted to get more practice working with JavaScript today so I looked at Codeplayer.com to see what JavaScript tutorials they had. This tutorial was great JavaScript practice. Originally my code wasn't working in the browser. I double checked some of my code and tried moving around some of the functions, but it didn't fix the problem. Instead it created more problems. I realized I spelled clearRect as clearReact, giving me the error with the snowflakes. Some of the tutorial code I was unfamiliar with so I had to do some research to see what specific parts of the code does. I must remember to be careful with the {} and the semi-colons when working with JavaScript since those contributed to many of the errors for this project.
+
+**Link(s) to work**: [Codeplayer.com Snow Effect](https://codepen.io/BritishPandaChick/full/xPVEoX/)
