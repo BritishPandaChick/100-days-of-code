@@ -631,3 +631,11 @@
 **Thoughts** I wanted to get more practice working with JavaScript today so I looked at Codeplayer.com to see what JavaScript tutorials they had. This tutorial was great JavaScript practice. Originally my code wasn't working in the browser. I double checked some of my code and tried moving around some of the functions, but it didn't fix the problem. Instead it created more problems. I realized I spelled clearRect as clearReact, giving me the error with the snowflakes. Some of the tutorial code I was unfamiliar with so I had to do some research to see what specific parts of the code does. I must remember to be careful with the {} and the semi-colons when working with JavaScript since those contributed to many of the errors for this project.
 
 **Link(s) to work**: [Codeplayer.com Snow Effect](https://codepen.io/BritishPandaChick/full/xPVEoX/)
+
+### Day 80: November 4, 2017
+
+**Today's Progress** Made a To Do list using HTML & CSS from Codeplayer.com tutorials.
+
+**Thoughts** I wanted to try making a simple to do list and found a tutorial on codeplayer.com website. The challenge was getting the checkboxes to work. My original project was different from the demo project since my checkmarks were different from the ones in the sample. I double checked the CSS to see if I could find any errors. I found a few, but those didn't get the boxes for the checkmarks to disappear. I went back to check my HTML file and see if there was anything I could find. It turns out the error was in the HTML all along with one an s missing from one of the class names.
+
+**Link(s) to work**: [CSS To Do List](https://codepen.io/BritishPandaChick/full/jaqvjO/)
