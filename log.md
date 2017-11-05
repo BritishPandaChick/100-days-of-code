@@ -639,3 +639,11 @@
 **Thoughts** I wanted to try making a simple to do list and found a tutorial on codeplayer.com website. The challenge was getting the checkboxes to work. My original project was different from the demo project since my checkmarks were different from the ones in the sample. I double checked the CSS to see if I could find any errors. I found a few, but those didn't get the boxes for the checkmarks to disappear. I went back to check my HTML file and see if there was anything I could find. It turns out the error was in the HTML all along with one an s missing from one of the class names.
 
 **Link(s) to work**: [CSS To Do List](https://codepen.io/BritishPandaChick/full/jaqvjO/)
+
+### Day 81: November 5, 2017
+
+**Today's Progress** Debug Skillcrush testimonial slider. Made a cell phone for Daily CSS Images challenge.
+
+**Thoughts** Did some more debugging on the Skillcrush testimonial. Add some more comments and checked some of the functions. I looked at another Github repository to see if I could find anymore errors with my code, but didn't have much luck. I sent a message to one of the developers who made the testimonial for help. Besides debugging the testimonial slider, I made a cell phone from the Daily CSS Images challenge. Right now most of the phone is done. The only problem is the camera at the top and speaker need to be moved towards the right. I will see if I can fix some of the measurements tomorrow.
+
+**Link(s) to work**: [Daily CSS Images Challenge Cell Phone](https://codepen.io/BritishPandaChick/full/VrjvQY/)
