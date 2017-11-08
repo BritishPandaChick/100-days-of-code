@@ -655,3 +655,11 @@
 **Thoughts** I managed to fix the camera and speaker at the top of the phone. It took a couple of tries and commenting out sections of code, but I knew the problem was in the CSS for the speaker code. I experimented with different speaker combination techniques before I finally got the speaker aligned with the camera. Once I finished debugging the cell phone project, I made a laptop for the Daily CSS Images challenge. Only made a few errors in this project so it was easier to debug than the cell phone. The biggest mistake I made was simply misspelling border for one of the border properties so the border-radius didn't work.
 
 **Link(s) to work**: [Daily CSS Images Challenge Laptop](https://codepen.io/BritishPandaChick/full/rYMVJj/)
+
+### Day 83: November 7, 2017
+
+**Today's Progress** Made an external monitor for Daily CSS Images challenge.
+
+**Thoughts** I wanted to make a basic external monitor, but I wanted to look at some sample projects to get inspiration. I took the opportunity to play with the border-radius property a bit by trying out the border-top-left-radius and border-top-right-radius before finding the right measurement for the border-radius property. At first I was using the wrong property name so none of the corners would be rounded when I tested my website.
+
+**Link(s) to work**: [Daily CSS Images Challenge External Monitor](https://codepen.io/BritishPandaChick/full/MObYeB/)
