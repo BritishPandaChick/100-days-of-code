@@ -663,3 +663,11 @@
 **Thoughts** I wanted to make a basic external monitor, but I wanted to look at some sample projects to get inspiration. I took the opportunity to play with the border-radius property a bit by trying out the border-top-left-radius and border-top-right-radius before finding the right measurement for the border-radius property. At first I was using the wrong property name so none of the corners would be rounded when I tested my website.
 
 **Link(s) to work**: [Daily CSS Images Challenge External Monitor](https://codepen.io/BritishPandaChick/full/MObYeB/)
+
+### Day 84: November 8, 2017
+
+**Today's Progress** Debug testimonial slider project.
+
+**Thoughts** I got some feedback from one of the developers who made the testimonial slider on Slack last night so I'm going to run more tests and debug my slider project today. I found some more misspellings which were harder to spot in my code then copied my code into JSBin to see if I could spot more errors. I got more reference errors as well as errors in general. So I looked back at the github repository for the code to double check for more errors. Midway through checking it, I decided to double check my code through the dev tools. This gave me much better clarification on where errors were, telling me what lines the errors were at and what type of error it is. One of these errors was a missing ) when I was trying to make the slide active. Once I added the ) in, I checked my code in the browser and the testimonial slider began working. I copied the same code in CodePen and JSBin to see if it worked. It didn't work. I double checked my project again using the dev tools console but no errors popped up. I'm not sure why the errors were apeparing in JSBIN or CodePen, but I'll keep playing around with the code to see if I can figure out why.
+
+**Link(s) to work**: [Skillcrush Code Along Testimonial Slider](https://github.com/BritishPandaChick/skillcrush-testimonial-slider)
