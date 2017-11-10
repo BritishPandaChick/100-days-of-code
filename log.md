@@ -679,3 +679,9 @@
 **Thoughts** I looked at some more codeplayer.com tutorials and made the sun tutorial. This tutorial uses CSS animations, which I often try to stay away from when I do the challenges. The biggest frustration with this tutorial was my sun not looking like a sun once I finished the code along. Instead my looked like a bunch of boxes in a line spinning. I double checked the animation, assuming I put the wrong spelling for some of the CSS properties used to get the boxes to spin. Those weren't the problem so I went back to my HTML to see if I could find any problems with the ID names. Once I started looking at the CSS properties for the sun and rings, I found a few errors. The biggest reason why the rings weren't spinning was a spacing issue with the height property for the #sun, #sun * :before, and #sun * :after properties. I didn't put spaces between the * and the : so none of the div tags were lying on top of each other.
 
 **Link(s) to work**: [CSS Sun Animation](https://codepen.io/BritishPandaChick/full/WXRmbW/)
+
+### Day 86: November 10, 2017
+
+**Today's Progress**: Debug Skillcrush website. Began building keyboard for Daily CSS Images.
+
+**Thoughts** I double checked one of my Skillcrush projects I made when I started learning how to code and discovered lots of bugs. I double checked the HTML & CSS files and made changes. The background disappeared a bit, but it went back to normal once the img src was changed. After debugging and committing these changes to github, I began working on a keyboard for the Daily CSS Images challenge. I just did the HTML for today. I had to look at my keyboard a bit to make sure I got the write keys. I looked at how another developer did their keys on their keyboard and found his approach was easier than what I was doing so I changed my approach of using br tags in between keys that had two symbols.
