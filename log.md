@@ -685,3 +685,11 @@
 **Today's Progress**: Debug Skillcrush website. Began building keyboard for Daily CSS Images.
 
 **Thoughts** I double checked one of my Skillcrush projects I made when I started learning how to code and discovered lots of bugs. I double checked the HTML & CSS files and made changes. The background disappeared a bit, but it went back to normal once the img src was changed. After debugging and committing these changes to github, I began working on a keyboard for the Daily CSS Images challenge. I just did the HTML for today. I had to look at my keyboard a bit to make sure I got the write keys. I looked at how another developer did their keys on their keyboard and found his approach was easier than what I was doing so I changed my approach of using br tags in between keys that had two symbols.
+
+### Day 87: November 11, 2017
+
+**Today's Progress**: Add CSS to the keyboard for the Daily CSS Images challenge.
+
+**Thoughts** The keyboard was very tricky. I often had to reference and use the sample project I found on CodePen to see how they managed to get items to appear a specific way on the browser. I found myself often revisiting the HTML to double check the classes and making sure they matched the CSS selectors. The final product isn't quite perfect. There is more space on the bottom than the top, but I'm happy it looks like an actual keyboard. This project shows I just need to be much more careful with using multiple div tags since lots of the problems with this project came from the extra div tags.
+
+**Link(s) to work**: [Daily CSS Images Day 39 Keyboard](https://codepen.io/BritishPandaChick/full/jaBEXa/)
