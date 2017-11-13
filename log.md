@@ -693,3 +693,9 @@
 **Thoughts** The keyboard was very tricky. I often had to reference and use the sample project I found on CodePen to see how they managed to get items to appear a specific way on the browser. I found myself often revisiting the HTML to double check the classes and making sure they matched the CSS selectors. The final product isn't quite perfect. There is more space on the bottom than the top, but I'm happy it looks like an actual keyboard. This project shows I just need to be much more careful with using multiple div tags since lots of the problems with this project came from the extra div tags.
 
 **Link(s) to work**: [Daily CSS Images Day 39 Keyboard](https://codepen.io/BritishPandaChick/full/jaBEXa/)
+
+### Day 88: November 12, 2017
+
+**Today's Progress**: Started HTML content for Once Upon a Time site. Start making a Nintendo 2Ds for Daily CSS Images challenge.
+
+**Thoughts** I originally made an Once Upon a Time fan site when I began coding. I decided to update the website with brand new code and give it a brand new look. I managed to complete the header, navigation, and footer for my site in 25 minutes. I added a bit of CSS to map out potential placement of these elements on my site. After 25 minutes, I started making a Nintento 2DS. I looked at a few sample projects on CodePen and found one I'd like to try and replicate. So far I've managed to do most of the HTML. I started the CSS and so far my version looks like the buttons and screen are moving towards the left. I'm not quite done with the 2DS. I still have to put more features on the site as well as validate my CSS to see what is causing the issues with CSS right now.
