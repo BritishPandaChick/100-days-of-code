@@ -698,4 +698,12 @@
 
 **Today's Progress**: Started HTML content for Once Upon a Time site. Start making a Nintendo 2Ds for Daily CSS Images challenge.
 
-**Thoughts** I originally made an Once Upon a Time fan site when I began coding. I decided to update the website with brand new code and give it a brand new look. I managed to complete the header, navigation, and footer for my site in 25 minutes. I added a bit of CSS to map out potential placement of these elements on my site. After 25 minutes, I started making a Nintento 2DS. I looked at a few sample projects on CodePen and found one I'd like to try and replicate. So far I've managed to do most of the HTML. I started the CSS and so far my version looks like the buttons and screen are moving towards the left. I'm not quite done with the 2DS. I still have to put more features on the site as well as validate my CSS to see what is causing the issues with CSS right now.
+**Thoughts** I originally made an Once Upon a Time fan site when I began coding. I decided to update the website with brand new code and give it a brand new look. I managed to complete the header, navigation, and footer for my site in 25 minutes. I added a bit of CSS to map out potential placement of these elements on my site. After 25 minutes, I started making a Nintendo 2DS. I looked at a few sample projects on CodePen and found one I'd like to try and replicate. So far I've managed to do most of the HTML. I started the CSS and so far my version looks like the buttons and screen are moving towards the left. I'm not quite done with the 2DS. I still have to put more features on the site as well as validate my CSS to see what is causing the issues with CSS right now.
+
+### Day 89: November 13, 2017
+
+**Today's Progress**: Finish Nintendo 2Ds for Daily CSS Images Challenge. Finish the CSS style sheet and debug code.
+
+**Thoughts** I finished putting all the CSS for all the features on the 2Ds. Most of the features had repeating code so I was able to copy-paste some of the repeating hex codes for the colors. Once the CSS style sheet was finished, I went back into my code to see if I could figure out what the problem was with all the elements moving towards the left. I tried validating my code, but I think the results weren't correct so I decided to do the comment sections code out and see what the problem was. I used the inspiration code to help me spot some of the errors. It turns out the problem was in several of the () where I put the - as a negative number instead of subtracting the percentage from the pixel amount. Once I changed this for the screen and some of the features, everything moved to the right spots.
+
+**Link(s) to work**: [Daily CSS Images Day 40 Nintendo DS](https://codepen.io/BritishPandaChick/full/mqmxgG/)
