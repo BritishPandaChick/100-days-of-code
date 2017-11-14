@@ -707,3 +707,11 @@
 **Thoughts** I finished putting all the CSS for all the features on the 2Ds. Most of the features had repeating code so I was able to copy-paste some of the repeating hex codes for the colors. Once the CSS style sheet was finished, I went back into my code to see if I could figure out what the problem was with all the elements moving towards the left. I tried validating my code, but I think the results weren't correct so I decided to do the comment sections code out and see what the problem was. I used the inspiration code to help me spot some of the errors. It turns out the problem was in several of the () where I put the - as a negative number instead of subtracting the percentage from the pixel amount. Once I changed this for the screen and some of the features, everything moved to the right spots.
 
 **Link(s) to work**: [Daily CSS Images Day 40 Nintendo DS](https://codepen.io/BritishPandaChick/full/mqmxgG/)
+
+### Day 90: November 14, 2017
+
+**Today's Progress**: Add structure and content to Photographer website. Started to add grid system for website.
+
+**Thoughts** My goal for today's project was getting all the HTML content on the site. I cheated a bit and borrowed the layout from a previous project I made earlier for the different sections. Most of this project is heavily based on the sample project included in the e-mail. I based a lot of the site on the sample site's features. The only HTML left to add to the site are the images. I tried using a background image for my site, but I didn't like how it mixed with the logo and navigation. I instead used a background color and tried finding a hex code similar to the town sign. I'll see tomorrow if I can add an background image underneath tomorrow. I didn't do too much with the CSS today. My goal was to get as much of the content done as possible and I think I was able to achieve that.
+
+**Link(s) to work**: [30 Days 30 Sites Day 10 Photographer Website](https://codepen.io/BritishPandaChick/full/GOvrzy/)
