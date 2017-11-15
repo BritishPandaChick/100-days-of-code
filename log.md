@@ -715,3 +715,11 @@
 **Thoughts** My goal for today's project was getting all the HTML content on the site. I cheated a bit and borrowed the layout from a previous project I made earlier for the different sections. Most of this project is heavily based on the sample project included in the e-mail. I based a lot of the site on the sample site's features. The only HTML left to add to the site are the images. I tried using a background image for my site, but I didn't like how it mixed with the logo and navigation. I instead used a background color and tried finding a hex code similar to the town sign. I'll see tomorrow if I can add an background image underneath tomorrow. I didn't do too much with the CSS today. My goal was to get as much of the content done as possible and I think I was able to achieve that.
 
 **Link(s) to work**: [30 Days 30 Sites Day 10 Photographer Website](https://codepen.io/BritishPandaChick/full/GOvrzy/)
+
+### Day 91: November 15, 2017
+
+**Today's Progress**: Add most of the CSS to photographer website. Add images to HTML file.
+
+**Thoughts** I spent most of the hour working on the SSS. I was going to use this project as a way to try some of the mobile responsive techniques I learned on Codeacademy, but I scrapped that idea since I ran into a problem with the CSS for the shopping, contact, and footer areas. After the events section, everything started to mix together instead of get on a separate line. Originally the events section wouldn't be separated into two, but I played with the padding a bit to get the right size. I was going to get rid of the bullet points for the dates, but the text-decoration didn't work so I'm just left the bullet points there for now. I might revisit them later when this project is done. Although I didn't do much work on the HTML, I did add some of the image links for the img tags. I'm satisfied with everything for the header, features, and exhibits. I just can't seem to get the shop, contact, and footer to get near the bottom without messing with the grid system. I'll see if I can go into dev tools to figure out what is the problem.
+
+**Link(s) to work**: [30 Days 30 Sites Day 10 Photographer Website](https://codepen.io/BritishPandaChick/full/GOvrzy/)
