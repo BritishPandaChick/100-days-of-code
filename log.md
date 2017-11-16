@@ -720,6 +720,14 @@
 
 **Today's Progress**: Add most of the CSS to photographer website. Add images to HTML file.
 
-**Thoughts** I spent most of the hour working on the SSS. I was going to use this project as a way to try some of the mobile responsive techniques I learned on Codeacademy, but I scrapped that idea since I ran into a problem with the CSS for the shopping, contact, and footer areas. After the events section, everything started to mix together instead of get on a separate line. Originally the events section wouldn't be separated into two, but I played with the padding a bit to get the right size. I was going to get rid of the bullet points for the dates, but the text-decoration didn't work so I'm just left the bullet points there for now. I might revisit them later when this project is done. Although I didn't do much work on the HTML, I did add some of the image links for the img tags. I'm satisfied with everything for the header, features, and exhibits. I just can't seem to get the shop, contact, and footer to get near the bottom without messing with the grid system. I'll see if I can go into dev tools to figure out what is the problem.
+**Thoughts** I spent most of the hour working on the CSS. I was going to use this project as a way to try some of the mobile responsive techniques I learned on Codeacademy, but I scrapped that idea since I ran into a problem with the CSS for the shopping, contact, and footer areas. After the events section, everything started to mix together instead of get on a separate line. Originally the events section wouldn't be separated into two, but I played with the padding a bit to get the right size. I was going to get rid of the bullet points for the dates, but the text-decoration didn't work so I'm just left the bullet points there for now. I might revisit them later when this project is done. Although I didn't do much work on the HTML, I did add some of the image links for the img tags. I'm satisfied with everything for the header, features, and exhibits. I just can't seem to get the shop, contact, and footer to get near the bottom without messing with the grid system. I'll see if I can go into dev tools to figure out what is the problem.
 
 **Link(s) to work**: [30 Days 30 Sites Day 10 Photographer Website](https://codepen.io/BritishPandaChick/full/GOvrzy/)
+
+### Day 92: November 16, 2017
+
+**Today's Progress**: Finish photographer website. Fixed CSS for the entire website.
+
+**Thoughts** Managed to fix the problem with the overlapping sections at the bottom of the pages. I believe the problem is with the floating which messed up some of the other elements. I found the best way to do this without changing everything on my site was setting the height, margins, and padding for different classes. Height particularly made the biggest difference and even caused some of the elements to move on their own.
+
+**Link(s) to work**: [30 Days 30 Sites Day 10 Photographer](https://codepen.io/BritishPandaChick/full/GOvrzy/)
