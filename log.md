@@ -731,3 +731,11 @@
 **Thoughts** Managed to fix the problem with the overlapping sections at the bottom of the pages. I believe the problem is with the floating which messed up some of the other elements. I found the best way to do this without changing everything on my site was setting the height, margins, and padding for different classes. Height particularly made the biggest difference and even caused some of the elements to move on their own.
 
 **Link(s) to work**: [30 Days 30 Sites Day 10 Photographer](https://codepen.io/BritishPandaChick/full/GOvrzy/)
+
+### Day 93: November 17, 2017
+
+**Today's Progress**: Made Panda mascot for Daily CSS Images challenge.
+
+**Thoughts** I have a little bobble head figure of a panda wearing glasses that I've been meaning to try replicating in code. Since this is a potential mascot idea for a startup, I decided to try translating the face into HTML & CSS. Before tackling this project, I tried googling other faces to see how others tried doing glasses on people or animals. I wasn't able to get any results so I decided to figure out the best I could. First, I made the face. I borrowed a lot of this code from the bear project I made months ago but added extra touches with the eyes, nose, and mouth. The mouth was recycled code from the stay puft marshmallow man awhile ago. When it came time to the classes, I tried glass classes in different places in the HTML, but found it was better putting the classes above the eyes. I used a test green circle to see if I could get the illusion of glasses. Once I changed the background to transparent and put a black border, the glasses began to take shape. The face is too wide and I need to change around the CSS to make things a lot more cleaner, but I'm satisfied with this project.
+
+**Link(s) to work**: [Daily CSS Images Day 41 Mascot for Start Up](https://codepen.io/BritishPandaChick/full/GOyKRG/)
