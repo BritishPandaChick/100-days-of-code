@@ -739,3 +739,11 @@
 **Thoughts** I have a little bobble head figure of a panda wearing glasses that I've been meaning to try replicating in code. Since this is a potential mascot idea for a startup, I decided to try translating the face into HTML & CSS. Before tackling this project, I tried googling other faces to see how others tried doing glasses on people or animals. I wasn't able to get any results so I decided to figure out the best I could. First, I made the face. I borrowed a lot of this code from the bear project I made months ago but added extra touches with the eyes, nose, and mouth. The mouth was recycled code from the stay puft marshmallow man awhile ago. When it came time to the classes, I tried glass classes in different places in the HTML, but found it was better putting the classes above the eyes. I used a test green circle to see if I could get the illusion of glasses. Once I changed the background to transparent and put a black border, the glasses began to take shape. The face is too wide and I need to change around the CSS to make things a lot more cleaner, but I'm satisfied with this project.
 
 **Link(s) to work**: [Daily CSS Images Day 41 Mascot for Start Up](https://codepen.io/BritishPandaChick/full/GOyKRG/)
+
+### Day 94: November 18, 2017
+
+**Today's Progress**: Made a panda critter for Daily CSS Images challenge. Add div tag to mascot index file.
+
+**Thoughts** I looked back at the project I made yesterday and realized I made a CSS selector for a head class when there wasn't a class located in the index file. I added a div class head to the index file. Most of today's work was on the next image for the Daily CSS Images. I tried replicating the panda style on my cell phone case which is a very basic look with. I had the most fun trying to create different shapes for the nose and eyes. The challenge was just trying to find the spacing between the elements. I had trouble finding the right spacing as I kept the elements in the same alignment.
+
+**Link(s) to work**: [Daily CSS Images Day 42 Critter](https://codepen.io/BritishPandaChick/full/KyZyYZ/)
