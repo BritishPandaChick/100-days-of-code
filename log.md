@@ -755,3 +755,11 @@
 **Thoughts** Decided to try replicating the sample site included in the email. The format is similar but the content is different. My goal for this project is making rows since this format is similar to a portfolio site I want to build once the challenge is over. I'm a little concerned about the images for this project since they are different sizes and it will be a challenge getting these images to be the same size. I'll see if I can play around with them in the CSS tomorrow and make this possible on my site.
 
 **Link(s) to work**: [30 Days, 30 Sites Mobile Services/Events](https://codepen.io/BritishPandaChick/full/zPpQzB/)
+
+### Day 96: November 20, 2017
+
+**Today's Progress**: Add CSS to mobile services and events website for 30 Days, 30 Sites challenge.
+
+**Thoughts** Did most of the CSS on the website. I added a bit more HTML to my code, but most of the focus was on the CSS. Most of the big portions of CSS are on the site, but there is lots of tweaking that needs to be done. So far the rows are mashing up together instead of being separate on each line. The footer isn't staying in the right place with the blue background up higher than the actual text. I'm going to play with the width, height, margins, and padding for elements. I found a temporary solution for the images by just setting the height of all the images, but I get a feeling I'll have to do even more customization to get the images to be align and similar in size.
+
+**Link(s) to work**: [30 Days, 30 Sites Mobile Services/Events](https://codepen.io/BritishPandaChick/full/zPpQzB/)
