@@ -747,3 +747,11 @@
 **Thoughts** I looked back at the project I made yesterday and realized I made a CSS selector for a head class when there wasn't a class located in the index file. I added a div class head to the index file. Most of today's work was on the next image for the Daily CSS Images. I tried replicating the panda style on my cell phone case which is a very basic look with. I had the most fun trying to create different shapes for the nose and eyes. The challenge was just trying to find the spacing between the elements. I had trouble finding the right spacing as I kept the elements in the same alignment.
 
 **Link(s) to work**: [Daily CSS Images Day 42 Critter](https://codepen.io/BritishPandaChick/full/KyZyYZ/)
+
+### Day 95: November 19, 2017
+
+**Today's Progress**: Add HTML and content to mobile services and events website for 30 Days, 30 Sites challenge.
+
+**Thoughts** Decided to try replicating the sample site included in the email. The format is similar but the content is different. My goal for this project is making rows since this format is similar to a portfolio site I want to build once the challenge is over. I'm a little concerned about the images for this project since they are different sizes and it will be a challenge getting these images to be the same size. I'll see if I can play around with them in the CSS tomorrow and make this possible on my site.
+
+**Link(s) to work**: [30 Days, 30 Sites Mobile Services/Events](https://codepen.io/BritishPandaChick/full/zPpQzB/)
