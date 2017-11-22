@@ -771,3 +771,11 @@
 **Thoughts** I did lots of debugging for this project. I used developer tools to figure out why some of the images were being a problem on the browser and trying to be in the middle of the site. I think this is due to the way the grid system on my site works. I tried changing some of the measurements for the margins, height, and padding. This didn't work and did nothing when I looked at everything on my site. I finally decided to redo some of the HTML to see where the problem is. So far I managed to fix most of the site. My second navigation and footer are way too far from the rest of the content, creating a large white gap on the page. I did save my original code to my code file. I'm hoping to wrap this up tomorrow.
 
 **Link(s) to work**: [30 Days, 30 Sites Mobile Services/Events](https://codepen.io/BritishPandaChick/full/zPpQzB/)
+
+### Day 98: November 22, 2017
+
+**Today's Progress** Debug final issues for mobile services and events site for 30 Days, 30 sites challenge.
+
+**Thoughts** Finally finished my mobile services site. I wanted to play with the margins on this project to see if that would help with some of the elements on my site. It helped a little bit. I think most of the problem comes from the float property set in some of the grid tags. When I removed the float property from the full width and half width classes, more problems were created. I found the negative margins, while the not best practice, worked for this situation. I'll see if I can find a better solution later with this project in the future.
+
+**Link(s) to work**: [30 Days, 30 Sites Mobile Services/Events](https://codepen.io/BritishPandaChick/full/zPpQzB/)
