@@ -763,3 +763,11 @@
 **Thoughts** Did most of the CSS on the website. I added a bit more HTML to my code, but most of the focus was on the CSS. Most of the big portions of CSS are on the site, but there is lots of tweaking that needs to be done. So far the rows are mashing up together instead of being separate on each line. The footer isn't staying in the right place with the blue background up higher than the actual text. I'm going to play with the width, height, margins, and padding for elements. I found a temporary solution for the images by just setting the height of all the images, but I get a feeling I'll have to do even more customization to get the images to be align and similar in size.
 
 **Link(s) to work**: [30 Days, 30 Sites Mobile Services/Events](https://codepen.io/BritishPandaChick/full/zPpQzB/)
+
+### Day 97: November 21, 2017
+
+**Today's Progress**: Debug some of issues with mobile services and events website for 30 Days, 30 Sites challenge. Began changing HTML & CSS code for project.
+
+**Thoughts** I did lots of debugging for this project. I used developer tools to figure out why some of the images were being a problem on the browser and trying to be in the middle of the site. I think this is due to the way the grid system on my site works. I tried changing some of the measurements for the margins, height, and padding. This didn't work and did nothing when I looked at everything on my site. I finally decided to redo some of the HTML to see where the problem is. So far I managed to fix most of the site. My second navigation and footer are way too far from the rest of the content, creating a large white gap on the page. I did save my original code to my code file. I'm hoping to wrap this up tomorrow.
+
+**Link(s) to work**: [30 Days, 30 Sites Mobile Services/Events](https://codepen.io/BritishPandaChick/full/zPpQzB/)
