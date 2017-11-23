@@ -779,3 +779,11 @@
 **Thoughts** Finally finished my mobile services site. I wanted to play with the margins on this project to see if that would help with some of the elements on my site. It helped a little bit. I think most of the problem comes from the float property set in some of the grid tags. When I removed the float property from the full width and half width classes, more problems were created. I found the negative margins, while the not best practice, worked for this situation. I'll see if I can find a better solution later with this project in the future.
 
 **Link(s) to work**: [30 Days, 30 Sites Mobile Services/Events](https://codepen.io/BritishPandaChick/full/zPpQzB/)
+
+### Day 99: November 23, 2017
+
+**Today's Progress** Made a HTML & CSS turkey for Daily CSS Images challenge.
+
+**Thoughts** I looked at a few sample projects to see if I could find a live turkey to replicate, but I settled for a roast turkey instead. This turkey was surprisingly hard to make. Originally all the elements for this project were anywhere but on the turkey. I had to double check my code twice and I wasn't able to find the errors even when I comment sections to edit and check parts of my site. I eventually figured out the problem after redoing each selector in my style sheet. It turns out one of the CSS properties had an ; instead of a : which threw off everything in my code.
+
+**Link(s) to work**: [Daily CSS Images Day 43 Animal Mascot](https://codepen.io/BritishPandaChick/full/gXKPpy/)
