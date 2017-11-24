@@ -787,3 +787,9 @@
 **Thoughts** I looked at a few sample projects to see if I could find a live turkey to replicate, but I settled for a roast turkey instead. This turkey was surprisingly hard to make. Originally all the elements for this project were anywhere but on the turkey. I had to double check my code twice and I wasn't able to find the errors even when I comment sections to edit and check parts of my site. I eventually figured out the problem after redoing each selector in my style sheet. It turns out one of the CSS properties had an ; instead of a : which threw off everything in my code.
 
 **Link(s) to work**: [Daily CSS Images Day 43 Animal Mascot](https://codepen.io/BritishPandaChick/full/gXKPpy/)
+
+### Day 100: November 24, 2017
+
+**Today's Progress** Made Skillcrush 101 bonus project Rogue Pickings. Did HTML & CSS.
+
+**Thoughts** I got a head start on the last Skillcrush 101 project for an upcoming tech blog post. I managed to do all the HTML & CSS. Right now the site doesn't fill the entire screen. I'll see if I can add some grid systems like the Jubilee Austen site so it will fill the entire page. The other big challenge was just getting the Wisdom font to appear at the bottom of the footer. I had to revisit my Skillcrush e-mail newsletter to refresh my memory and review how to use the font-face property. Overall the project looks similiar to the design comp presented.
