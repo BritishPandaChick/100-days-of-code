@@ -218,7 +218,7 @@
 
 **Thoughts** Taking a break from making projects to start making changes to my portfolio site. I deleted some of the older pages and got rid of my current blog on the website. I'm planning on re-doing the blog into something more tech related once I'm done revising some of the previous pages. For now I'm putting my focus into building the home page of my site. I was hoping to do more of the portfolio site today, but I'll get to the other pages as I go. The challenge of the home page was just figuring out the right layout for the content and what should be on the home page. I looked at a few examples and decided to make my home page my current portfolio page where users could see my best projects. I added a brief bio at the top of the home page and made a contact section at the bottom for the call of action.
 
-**Link(s) to work**: [BritishPandaChick Personal Portfolio](http://www.britishpandachick.com)
+**Link(s) to work**: [BritishPandaChick Personal Portfolio]
 
 ### Day 29: September 14, 2017
 
