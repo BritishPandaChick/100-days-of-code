@@ -15,3 +15,11 @@
 **Thoughts:** Did more practice with JavaScript animations today. I made an animal in the Khan Academy Resizing Variables lessons. I found I was repeating code a lot often as I was putting together the animals so I went back over my code and change variables for any code I was going to repeat again. I did a little bit better job with the animations today. Originally the code in my animations was moving to the right side of the screen instead of staying in place, but I played around with the variables and numbers for the X and Y for the ellipse to keep everything in place. I started making tweaks to my portfolio website. I'm debating on adding more pages to my website and some JavaScript. I'm not sure what JavaScript to add to my website though. For now I'm going to see if I can focus on getting the HTML the way I'd like before I make bigger changes.
 
 **Link to work:** [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/pp/project-animal-attack)
+
+### Day 3: June 3, 2019
+
+**Today's Progress**: Create an fictional advertisement for Khan Academy project Ad Design. Add two pages to portfolio site. Update index.html code for home page.
+
+**Thoughts:** This project didn't have a lot of JS animations but I did add an animation as a bonus to the project to get more practice. I had an easier time getting the eyeSize variable to animate in this project. Although the mouth is still visible when the animation for the eyes is working, I am pretty proud that I was able to get the eyes animated today. The ad itself was kept very simple so I could practice using text(), draw(), and textSize(). I spend a lot of my time adjusting the x, y, w, and h when I add shapes or text. I spent the last 30 minutes working on my portfolio site. I did the wireframe last night so I'm updating the HTML code. I created two new folders for the new pages of my portfolio website and started adding code to the about page. I managed to get the navigation in the about page working. The styles are a mess, but I'll change the styles once I get all the HTML done for all three pages.
+
+**Link to work:** [Khan Academy](https://www.khanacademy.org/computer-programming/spin-off-of-project-ad-design/5268645682446336)
