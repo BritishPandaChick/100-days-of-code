@@ -39,3 +39,11 @@
 **Thoughts:** I made all the if-else statements for the magic 8 ball. Most of my time was spent playing around with the position of the text in the magic 8 ball. I was having a hard time getting the words centered the way I wanted in the triangle. I did start over this project twice because I was playing around with the > or < operators first then tried using the === to do each of the individual numbers. Originally I was planning on working on my portfolio website but I got an e-mail with some security vulnerabilities on a few of my repositories. So I used the time to do some googling to see how to fix them with the Github documentation and help.
 
 **Link to work:** [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pp/project-magic-8-ball)
+
+### Day 6: June 6, 2019
+
+**Today's Progress**: Made a house in Khan Academy's Build a House project. Added bushes to the house.
+
+**Thoughts:** The house project was a bit tougher than I was planning. I spent a lot of time trying to figure out how to get the windows to repeat on the house. I tried using a variable at first, but that wasn't working. I realized the fill() and rect() need to be inside the for loop, but I wasn't sure how to get them to repeat on the site. I figured I had to use the i somewhere in the rect() but I wasn't 100% sure if this was the right way of thinking. I did some googling and found some videos of people doing the same project. One of the videos was using the same method I was thinking about using. I was planning on making grass, but I spent a lot of time trying to get the triangles to look the exact shape I wanted. So I just used two rect() to make bushes instead. Started to work on the CSS for my portfolio. I was going to use a fourth stylesheet for the base styles but I decided it might get too confusing so I deleted the main.css file. I did start making some changes to the mobile.css and have some of the styles added to the home page. I spent a lot of time trying to get my Google Fonts to work. Tomorrow I'd like to play with the images on the mobile site to see if I can find the right size for them or find a position for them.
+
+**Link to work:** [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming/looping/pp/project-build-a-house)
