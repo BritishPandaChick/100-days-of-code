@@ -69,3 +69,13 @@
 **Today's Progress**: Change some of the CSS styles in mobile style sheet. Add more CSS styles for responsive CSS style sheet so all HTML pages work on tablets. Began working on styles for the desktop version of my portfolio site.
 
 **Thoughts:** I made some small changes to the mobile style sheet so I wasn't repeating a lot of code. Most of the time was spent on updating my portfolio's responsive style sheet. I can't get the navigation to look quite like I was planning so I visited my current portfolio site and realized I faced similar issues with the current version. So I'm leaving the navigation the way it is now and trying to update the rest of the styles for the site. So far responsive site preview I'm seeing in dev tools is looking quite similar to what I'm seeing on the mobile version of my website. I might play with the font sizes to see if I can make things bigger for the tablet version. I started to work on the styles for the desktop version of my website. My career compass section was indented when I added the padding to the navigation. I tried playing around with the padding, but it remained indented. I finally changed the height size of the header and everything moved into the right place.
+
+**Link to work:** [Portfolio Website](https://github.com/BritishPandaChick/britishpandachick.github.io)
+
+### Day 10: June 10, 2019
+
+**Today's Progress**: Adding more CSS styles to the desktop portfolio site. Change font sizes for the mobile version of site.
+
+**Thoughts:** I'm not happy with the font size on my portfolio site. I might play around with the font sizes once I get all the pages updated. Many of the elements are floating in the wrong places so I changed some of the heights of sections which resolved the problem. This isn't the case with the portfolio page. One of the projects it still floating in the wrong place despite these changes. I changed some of the div tags to see if the names were correct but things didn't improve. I eventually found a solution by creating separate full-width div tags for each project. I also created a project class for the div tags change the height and bottom padding for each project. I played around with the font sizes for the mobile CSS. Tomorrow I'm going to play around with the font sizes for the responsive and desktop CSS style sheets.
+
+**Link to work:** [Portfolio Website](https://github.com/BritishPandaChick/britishpandachick.github.io)
