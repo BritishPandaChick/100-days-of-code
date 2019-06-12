@@ -79,3 +79,11 @@
 **Thoughts:** I'm not happy with the font size on my portfolio site. I might play around with the font sizes once I get all the pages updated. Many of the elements are floating in the wrong places so I changed some of the heights of sections which resolved the problem. This isn't the case with the portfolio page. One of the projects it still floating in the wrong place despite these changes. I changed some of the div tags to see if the names were correct but things didn't improve. I eventually found a solution by creating separate full-width div tags for each project. I also created a project class for the div tags change the height and bottom padding for each project. I played around with the font sizes for the mobile CSS. Tomorrow I'm going to play around with the font sizes for the responsive and desktop CSS style sheets.
 
 **Link to work:** [Portfolio Website](https://github.com/BritishPandaChick/britishpandachick.github.io)
+
+### Day 11: June 11, 2019
+
+**Today's Progress**: Add buttons to Portfolio page. Tweak CSS on pages.
+
+**Thoughts:** Still updating all the CSS on the portfolio site. Some of the sections on the desktop pages were indented so I played around the CSS such as the padding and height. I removed some of the styles I had added previously. Biggest addition were the buttons for the portfolio page. I set up a script file for the entire site and added the link to all index files. I set up a script file for JavaScript and added jQuery to my website. I didn't work much with the JavaScript since I was looking at the documentation for JavaScript and jQuery to see what would the best way moving forward with making the button. At the moment jQuery seems like the best option but I think I'm going to try just using regular JavaScript to get it to work. I found one answer on StackOverflow that I've started. I'm going to test it with one of the blog buttons to see if it works. If it doesn't, I'll google to see if I find another way.
+
+**Link to work:** [Portfolio Website](https://github.com/BritishPandaChick/britishpandachick.github.io)
