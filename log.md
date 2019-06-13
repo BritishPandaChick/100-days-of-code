@@ -87,3 +87,11 @@
 **Thoughts:** Still updating all the CSS on the portfolio site. Some of the sections on the desktop pages were indented so I played around the CSS such as the padding and height. I removed some of the styles I had added previously. Biggest addition were the buttons for the portfolio page. I set up a script file for the entire site and added the link to all index files. I set up a script file for JavaScript and added jQuery to my website. I didn't work much with the JavaScript since I was looking at the documentation for JavaScript and jQuery to see what would the best way moving forward with making the button. At the moment jQuery seems like the best option but I think I'm going to try just using regular JavaScript to get it to work. I found one answer on StackOverflow that I've started. I'm going to test it with one of the blog buttons to see if it works. If it doesn't, I'll google to see if I find another way.
 
 **Link to work:** [Portfolio Website](https://github.com/BritishPandaChick/britishpandachick.github.io)
+
+### Day 12: June 12, 2019
+
+**Today's Progress**: Added onclick attribute to button tags. Create separate functions for every button's onclick attribute. Change sizes of icons on HTML pages. Added more sections to About and Portfolio pages.
+
+**Thoughts:** I made more changes to the index and CSS files. I removed the jQuery links I added yesterday and change the sizes to the Font Awesome icons. I added another li tag for my Github. I used the StackOverflow method I found yesterday. I tested it with some of the buttons on my website and everything worked perfectly. I added onclick attribute to each button and created separate functions for each button. I'm not sure how else I can add JavaScript to my portfolio site so I was doing some research on MDN web docs to see what else I could do. The last 30 minutes were adding new sections to the portfolio and about pages. I went into the CSS to add more styling on these sections so they would work on all devices. I'm going to wrap up most of the coding for the portfolio tomorrow since all that is left to do is change the copy.
+
+**Link to work:** [Portfolio Website](https://github.com/BritishPandaChick/britishpandachick.github.io)
