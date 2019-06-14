@@ -95,3 +95,11 @@
 **Thoughts:** I made more changes to the index and CSS files. I removed the jQuery links I added yesterday and change the sizes to the Font Awesome icons. I added another li tag for my Github. I used the StackOverflow method I found yesterday. I tested it with some of the buttons on my website and everything worked perfectly. I added onclick attribute to each button and created separate functions for each button. I'm not sure how else I can add JavaScript to my portfolio site so I was doing some research on MDN web docs to see what else I could do. The last 30 minutes were adding new sections to the portfolio and about pages. I went into the CSS to add more styling on these sections so they would work on all devices. I'm going to wrap up most of the coding for the portfolio tomorrow since all that is left to do is change the copy.
 
 **Link to work:** [Portfolio Website](https://github.com/BritishPandaChick/britishpandachick.github.io)
+
+### Day 13: June 13, 2019
+
+**Today's Progress**: Set up code files for Random Quote Machine project.
+
+**Thoughts:** I set up the code files for my next project Random Quote Machine for 30 minutes. I didn't get quite a lot of coding done on this project due to my computer running slow plus I wasn't sure if I should use React or not. I originally added React to the project, but I decided at the last minute to not use it in favor of getting more practice with basic vanilla JavaScript and some jQuery. In the CodePen I added some of the first few items from the test and made sure my files were connected. After fixing my computer, I started doing more revisions on my portfolio site. I removed some of the placeholder text to see how items would look with the real text added in there. As soon as I changed the text for the skills third-width elements, the skills summary at the bottom indented. I tried fixing it with the playing by adding padding to the skills p tags but it didn't do much. I will play around with the padding and height for the skills summary tomorrow.
+
+**Link to work:** [Random Quote Machine](https://codepen.io/BritishPandaChick/pen/oLzoBG?editors=1011)
