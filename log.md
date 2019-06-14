@@ -98,8 +98,17 @@
 
 ### Day 13: June 13, 2019
 
-**Today's Progress**: Set up code files for Random Quote Machine project.
+**Today's Progress**: Set up code files for Random Quote Machine project. Add content for Home and About pages. Tried fixing CSS issues for skills section on Home page.
 
 **Thoughts:** I set up the code files for my next project Random Quote Machine for 30 minutes. I didn't get quite a lot of coding done on this project due to my computer running slow plus I wasn't sure if I should use React or not. I originally added React to the project, but I decided at the last minute to not use it in favor of getting more practice with basic vanilla JavaScript and some jQuery. In the CodePen I added some of the first few items from the test and made sure my files were connected. After fixing my computer, I started doing more revisions on my portfolio site. I removed some of the placeholder text to see how items would look with the real text added in there. As soon as I changed the text for the skills third-width elements, the skills summary at the bottom indented. I tried fixing it with the playing by adding padding to the skills p tags but it didn't do much. I will play around with the padding and height for the skills summary tomorrow.
 
 **Link to work:** [Random Quote Machine](https://codepen.io/BritishPandaChick/pen/oLzoBG?editors=1011)
+
+### Day 14: June 14, 2019
+
+**Today's Progress**: Made a basic travel website for Khan Academy's Travel webpage project. Added quote array with objects inside Random Quote Machine. Made new section tag for other-skills. Change images to icons on home page.
+
+**Thoughts:** The basic travel website isn't too fancy. I focused on doing the styling rather than making a fancy looking project. I just need to remember to watch the names of my classes and ids since I forgot to change the selectors after I changed the names for different tags. I used a little bit of time to start add more HTML to the Random Quote Machine. I added buttons for the clickable elements and started an array of quotes in my script file. I'm going to see if I can get the quotes to appear tomorrow in the quote box and name the buttons in the quote box. The last 30 minutes were making more updates and changes to my portfolio site. I removed the portfolio images and used Font Awesome icons instead. The design icon wasn't appearing on my website so I added the updated version of Font Awesome to my site. Once the style sheet was added, I started changing the padding and height to the Skills section. I decided to create a separate section for the other-skills instead of keeping in within the skills section id tag. This fixed a lot of the indenting that came from changing the padding. I made changes to the rest of the skills icons on mobile and responsive style sheets. I need to finish adding styles to the new #other-skills section on all the style sheets tomorrow.
+
+**Link to work:** [Random Quote Machine](https://codepen.io/BritishPandaChick/pen/oLzoBG?editors=1011)
+[Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/pp/project-travel-webpage)
