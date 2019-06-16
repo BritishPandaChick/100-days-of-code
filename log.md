@@ -112,3 +112,11 @@
 
 **Link to work:** [Random Quote Machine](https://codepen.io/BritishPandaChick/pen/oLzoBG?editors=1011)
 [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/pp/project-travel-webpage)
+
+### Day 15: June 15, 2019
+
+**Today's Progress**: Changed quotes in Quote Machine. Created function for displaying quote. Added more copy to Home and Portfolio pages. Adjusted CSS for skills and other-skills sections on Home page for responsive and style files.
+
+**Thoughts:** I decided to change directions on my quote machine project so I changed all the quotes I added yesterday. As soon as I did this, I started second guessing myself again on the quotes but decided to leave them the way they are now. I started to work on the first user story which is upon loading the machine a random quote is displayed in the text element. I managed to set up the function and create variables for the random number and random quote. However I'm wondering if I should just use a regular array for the quotes instead of objects. I did some googling and am looking in JavaScript & jQuery to read a bit more on JS objects. During the last 30 minutes I adjusted the height and padding for the skills and other-skills sections on the home page on all the style sheets. I started adding more copy to p tags on the Home page to see how this would impact the styles for the sections. It was a good thing I checked since the other-skills section indented as soon as I changed the height of the skills section. I started changing the padding on the portfolio page. This caused the elements to stack up on each other instead of being side by side. I'm going to play around with them tomorrow to see if I can improve the spacing a bit.
+
+**Link to work:** [Random Quote Machine](https://codepen.io/BritishPandaChick/pen/oLzoBG?editors=1011)
