@@ -161,3 +161,11 @@
 
 **Link to work:** [Random Quote Machine](https://codepen.io/BritishPandaChick/pen/oLzoBG?editors=1011)
 [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css/html-tags-continued/pp/project-recipe-book)
+
+### Day 21: June 21, 2019
+
+**Today's Progress**: Started to add CSS styles to the Quote Machine. Add more HTML tags to organize code.
+
+**Thoughts:** First 30 minutes were adding styles. I managed to get the fonts changed. I was trying out some of the Bootstrap classes to see if they could get the quote and author side by side for a few minutes. Bootstrap isn't one of my favorite things to work with in code since my project always looks different depending on the screen size so I find myself regularly looking at the page in several sizes to see how everything looks. I added an h3 and img tags for parts of my header. I organized the HTML with header and main tags. I spent some time trying to figuring out the sizing of the quote box but decided to play around with the height first and get the header organized the way I want before moving to the quote box. I tried centering the image with some of the Bootstrap documentation but found I was having better luck with the padding. In the last 30 minutes, I added the Twitter icon to the tweet button and make other final tweaks to the project. This included adding a footer at the bottom of the page and adding color. I tried putting some spacing between the new quote and tweet buttons for the mobile version. However the changes weren't showing up on Dev Tools when I checked the iphone preview. For now I'm going to leave it the way it is now but perhaps someday I'll go back into the project to change it. The style of this project is kept very simple. I thought about adding quotation marks around the quotes on the page but decided to leave it the way it is. When I ran final tests, the tweet button test failed. When I ran the tests again a couple more times, all the tests passed.
+
+**Link to work:** [Random Quote Machine](https://codepen.io/BritishPandaChick/pen/oLzoBG?editors=1011)
