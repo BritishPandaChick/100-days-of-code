@@ -210,3 +210,11 @@
 
 **Link to work:** [Markdown Previewer](https://codepen.io/BritishPandaChick/pen/YoVaZm?editors=1010)
 [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css/css-text-properties/pp/project-blog)
+
+### Day 27: June 27, 2019
+
+**Today's Progress**: Added React Component to Markdown Previewer then deleted it. Spent time troubleshooting React Component render method. Attempted to fix footer. Added navbar to 30 Days, 30 Sites portfolio site.
+
+**Thoughts:** The textarea documentation wasn't working for me. After finishing the documentation, I wasn't getting any results. I kept looking at the React documentation, but I also looked at a couple of YouTube videos just to double check my setup. I thought my original HTML was throwing off my code so I deleted it. It turns out that I was writing JSX wrong the entire time especially in the render method. I kept getting an error message in CodePen throughout today's session. Originally I was using h1 and h2 tags inside the render element and the error message saying adjacent tags must be wrapped in enclosing tags. After several attempts, the error message finally turned off as soon as I changed the h1 and h2 tags into div tags. I decided to just keep the header tags just in the HTML and concentrate on building the react inside the render(). In the last 30 minutes, I played around with the footer in the 30 Days, 30 Sites portfolio site. I wasn't able to accomplish my vision yet for the footer. I need to use row class on some of my elements to get them in a row. I will try that tomorrow. I didn't work on the mobile version of the portfolio today. I saw Colt Steele using Bootstrap to make a navbar in an app when I was working on my coding tutorials and I wanted to try it for this project. So most of my time was spent looking at the Bootstrap documentation and getting a navbar at the top of the page. I removed the jumbotron classes and some of the header styles but I have a start on the navbar. I just need to figure out how to get the nav links to line up besides each other just like in the documentation instead on top of each other. Once the navbar is finished, I'll go back to working on getting the site on different screen sizes.
+
+**Link to work:** [Markdown Previewer](https://codepen.io/BritishPandaChick/pen/YoVaZm?editors=1010)
