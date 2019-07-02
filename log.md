@@ -243,10 +243,18 @@
 
 **Link to work:** [Markdown Previewer](https://codepen.io/BritishPandaChick/pen/YoVaZm?editors=1010)
 
-### Day 31: June 31, 2019
+### Day 31: July 1, 2019
 
 **Today's Progress**: Trying to set up React locally on computer. Updated CSS styles for mobile version of 30 Days, 30 Sites portfolio.
 
 **Thoughts:** First 30 minutes were mostly reading the React documentation. I wanted to try setting up React on my computer so I could see how the markdown previewer project worked locally. I wasn't having any luck getting the project working. I tried 4-5 tutorials to get everything set up but it wasn't working. I'll try the Create React App method again later to see if I can get it to work. During the last 30 minutes, I was working on the CSS for the 30 Days, 30 Sites portfolio. The mobile styles were not appearing on Dev Tools preview. Once I exited out of the preview and played with the window sizes, the styles began appearing. At the end of the session, I checked to the previewer again to see what appeared and the styles I've been adding over the past 30 minutes were appearing in different sections throughout the page. However the styles are just fine when I adjust the browser window according to the pixel size. I've been adding most of the CSS styles for the mobile version of the site so I'll check tomorrow how everything looks in Dev Tools and see if I can fix it.
+
+**Link to work:** [Markdown Previewer](https://codepen.io/BritishPandaChick/pen/YoVaZm?editors=1010)
+
+### Day 32: July 2, 2019
+
+**Today's Progress**: Start adding and updating styles for Markdown Previewer. Add more Bootstrap and CSS to 30 Days, 30 Sites portfolio site.
+
+**Thoughts:** The first 30 minutes were adding styles to the Markdown Previewer. I took a couple of minutes to run through the tests and make sure everything was passing both on the CodePen pen and on my local computer. I changed around some of the variable names and added some documentation for specific parts of the code. Writing the comments was a little bit harder than I anticipated since the code wasn't appearing in the editor right away but I managed to add a couple of comments. The rest of the time was adjusting the CSS. I added a paragraph tag in the HTML for the directions and changed the columns for the container to rows. Then I just played around with the padding and the height. I just need to make a few smaller changes this project's CSS tomorrow then it should be ready to be submitted. Last 30 minutes were making more changes and updates to the 30 Days, 30 Sites portfolio page. I figured out what was wrong with the site preview in dev tools. I forgot to add a meta tag for the view port. As soon as I added this in the head tag, the preview inside Dev Tools changed to reflect the changes I was adding. After fixing the viewport, I managed to get the mobile version of my site done. I was having issues with the buttons still trying to be right beside the images. However adding the btn-block class immediately put the buttons underneath the images in the highlight class. Tomorrow I need to finish adding styles to the tablet version of my site then see how everything looks in the desktop version.
 
 **Link to work:** [Markdown Previewer](https://codepen.io/BritishPandaChick/pen/YoVaZm?editors=1010)
