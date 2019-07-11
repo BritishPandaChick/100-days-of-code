@@ -323,3 +323,9 @@
 **Thoughts:** I finished the drum machine in the first 30 minutes. I looked over the notes from yesterday's log and thought about trying to put the drum pads in columns stacked on top of each other. However I decided not to try it since I played around with the padding and height for the drum pads in a way I liked and I didn't want to change it. Maybe some day I'll revisit the project and try putting the drum pads rows of three. I ran the tests to make sure everything passed on CodePen then I ran the tests for my local file to ensure everything was consistent. When I saw the local preview, the id was still close to the border so I made a few adjustments to the padding, height and margins for the drum pad elements. I added the rest of the remaining styles for the footer and drum pads. I spent all my time trying to get the RSVP button to work. The original documentation I was trying to use wasn't working. So I did some googling to see what I could find. In the end, I decided to start over completely. I removed all the CSS and JavaScript code I had written. I began to redo the modal code itself. I read online to add links to the jQuery and Bootstrap JS file so I added those links to see if they would help. Right now I'm going back to using the W3Schools documentation. I'm going to also check out the Bootstrap documentation to see if I can at least get something to appear on the site.
 
 **Link to work:** [Drum Machine](https://codepen.io/BritishPandaChick/pen/mZjxWN)
+
+### Day 41: July 11, 2019
+
+**Today's Progress**: Fixed dependencies issues on Github.
+
+**Thoughts:** I got more notifications of issues for some Github projects so I spent today's sessions troubleshooting these errors instead of getting started on a brand new project. I spent of the time reading documentation and googling in order to fix the issues.
