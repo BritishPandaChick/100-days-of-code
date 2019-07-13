@@ -328,4 +328,13 @@
 
 **Today's Progress**: Fixed dependencies issues on Github.
 
-**Thoughts:** I got more notifications of issues for some Github projects so I spent today's sessions troubleshooting these errors instead of getting started on a brand new project. I spent of the time reading documentation and googling in order to fix the issues.
+**Thoughts:** I got more notifications of issues for some Github projects so I spent today's sessions troubleshooting these errors instead of getting started on a brand new project. I spent most of the time reading documentation and googling in order to fix the issues.
+
+### Day 42: July 12, 2019
+
+**Today's Progress**: Made an basic invitation for Khan Academy Event Invite project. Add more div tags to 30 Days, 30 Sites modal. Update CSS styles. Managed to get modal to toggle on with JavaScript. Began adding JS code to get the modal to close.
+
+**Thoughts:** First few minutes were building another Khan Academy project. The event invite project is similar to the 30 Days, 30 Sites project I'm working so I made a basic version. I didn't play with a lot of the CSS properties in the lesson and instead focused on creating a basic version that resembles an invite you might see. Khan Academy limits most of the styling you can do on their platform so I wasn't able to do as much as I would like. Perhaps someday I'll make a better invite on CodePen or locally on my computer. After the Khan Academy invite, I started to do set up for the JavaScript calculator. I'm not going to use React for this project and am going to use jQuery as well as regular vanilla JavaScript if possible. I just need to finish the rest of the set up tomorrow. This includes adding code for the first three user stories. Perhaps I'll be able to start tackling the JavaScript tomorrow. I finished removing the Bootstrap modal code. I organized the modal code into different div tags for the modal header, body and footer. I started to add more CSS to the modal code. I originally had padding and height set for some of the modal elements but I removed them in order to play around with the .modal padding to see why it was moving the modal into the center of the page. I revisited the W3Schools modal tutorial and began having better luck with adding most of the CSS. I started adding the JavaScript. So far the variables are done. I am getting an error saying the onclick property isn't working so tomorrow I'm going to be doing some debugging to see onclick isn't working despite the button allowing the modal to open when it is clicked.
+
+**Link to work:** [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css/css-layout-properties/pp/project-event-invite)
+[JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
