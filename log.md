@@ -338,3 +338,11 @@
 
 **Link to work:** [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css/css-layout-properties/pp/project-event-invite)
 [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
+
+### Day 43: July 13, 2019
+
+**Today's Progress**: Continue setting up JavaScript Calculator HTML code. Fix issues for modal in 30 Days, 30 sites event invitation. Got modal to close. Move modal code closer to the RSVP button.
+
+**Thoughts:** First 30 minutes were just setting up the JavaScript Calculator. I'm starting to second guess what I'm doing based on reading the user stories but I decided to try seeing if I can make the tests without React. Most of the time was spent trying to get the HTML organized the way I wanted to and just trying to get the buttons to mimic what you would see on an calculator. I added a button for the AC but I'm leaning towards deleting it since it isn't required by the user stories. I think I'm going to DRY up the code I have tomorrow before I tackle the JavaScript and particularly see about getting the calculator centered in the middle of the page. Right now everything is on the left side. While the display can be center in the page, the buttons weren't cooperating. I don't want to start doing lots of styling but I might need to add some temporary CSS so I can see what I'm doing as I move into the JS. I'm almost in the home stretch with the modal. I figured out why I was getting errors in the console. It turns out that I added the punctuation for the IDs and classes was causing the onclick errors. As soon as I removed the punctuation in the variables, everything started to pass and it began start acting as a modal. The only issue I have now when the modal closes, the backdrop still remains dark. I will try playing around with some of the JS code to see if I can get the backdrop to get back to normal. I started playing with the JS a little bit, but I wasn't having much luck. I think I might have to try setting the data attributes but I'm not 100% sure if that is the right solution.
+
+**Link to work:** [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
