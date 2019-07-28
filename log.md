@@ -452,3 +452,11 @@
 
 **Link to work:** [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
 [30 Days, 30 Sites Tourist Attraction Website](https://codepen.io/BritishPandaChick/full/wqNGKL)
+
+### Day 57: July 27, 2019
+
+**Today's Progress**: Started to set up 30 Days, 30 Sites product website. Created new stylesheets. Began adding HTML code for header, footer, navigation and some of the website sections. Tried using regular vanilla JavaScript to get JavaScript Calculator to work. Add data-action attribute on div tags calculator buttons.
+
+**Thoughts:** Today was all about setting up for the project and getting everything ready. This mean setting up the Github repo, organizing CSS folders, getting all the links needed to make this project and more. I'm not using Bootstrap on this project and am going to instead use Flexbox. Right now the focus is on getting the HTML on the page. The challenge with this website is trying to figure out what Mr. Gold would want on his website. I started looking at a couple of examples to get an idea of what to possibly put. So far I'm planning on using the images from the round one version of the site but it is hard knowing what to put on the website since he's a mysterious character on the show so I'm going to look at a few real life examples to see how to model this website for Mr. Gold. Last 30 minutes were doing more work on the JavaScript Calculator. I spent most of the time googling where I found a Free Code Camp article about using the data-action attribute in HTML only using JavaScript. So I commented out the jQuery code I've been working with and started using the Free Code Camp article as a guide to setting up the HTML with the data-action attribute. So far it isn't working but tomorrow I'm going to keep trying with this article's suggestion and see if that works. I'll see outside of the challenge if I can get some advice on my code in the meantime to see if I was heading in the right direction with my code.
+
+**Link to work:** [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
