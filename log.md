@@ -471,8 +471,16 @@
 
 ### Day 59: July 29, 2019
 
-**Today's Progress**: Add more CSS mobile stylesheet of 30 Days, 30 Sites product site. Tried adding styles to make a hamburger menu website using only CSS. Working on getting basic calcuator functions to work for JS Calculator.
+**Today's Progress**: Add more CSS mobile stylesheet of 30 Days, 30 Sites product site. Tried adding styles to make a hamburger menu website using only CSS. Working on getting basic calculator functions to work for JS Calculator.
 
 **Thoughts:** I decided not to add more sections to the product site. I took a look at the site before I started today's session and decided to leave what I original planning off the website. I didn't make as much progress since I decided to make a hamburger menu for the mobile site. Most of the time was googling to see what properties I needed to use. Some websites suggested using JavaScript as well as CSS so I set up a JS file just in case I need it. If I don't, I'll delete it later. So far I'm using the CSS Tricks post to help me. Right now the nav bar is hidden. So I'll see how to toggle everything tomorrow. Last 30 minutes were spent working on the JS Calculator. I'm using the Free Code Camp article to help me try getting the basic JS functions to work. Right now the user story tests are passing 9/16. One I think is passing since there is a 0 typed in the display. The buttons are still able to console.log what kind of buttons they are but I'm working on trying to get the buttons to display numbers on the screen. Tomorrow I'll do some more debugging before I progress further with my code to see if I can fix it.
+
+**Link to work:** [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
+
+### Day 60: July 30, 2019
+
+**Today's Progress**: Add new HTML & CSS for 30 Days, 30 Sites product site for hamburger menu. Add a function for JavaScript button to see if I can toggle hamburger menu. Debugged working code for JavaScript Calculator.
+
+**Thoughts:** First 30 minutes were just working on getting the hamburger menu to work. I rearranged the hamburger icon in the HTML and was trying to get the icon next to the h1 tag. I gave up after several attempts and decided to focus on getting the hamburger menu to work. After reading through the CSS Tricks blog post, I decided I needed to use JavaScript to get it to work so I did more googling. I found a W3Schools article for creating a mobile navigation bar so I decided to try it and see if I could get it to work. Right now I've got a function ready in the JS file. The console says everything works but when I click the icon nothing opens. So I'm going to do some debugging and see how to fix it tomorrow. Last 30 minutes of the session were debugging all the code I've written so far for the JavaScript Calculator. The console is showing no errors but the calculator still isn't displaying any of the numbers. Today only 7 out of 16 user story tests are passing. Since I've got a lot of code written so far, tomorrow I'm going organize the code back into separate functions and call them inside keys.addEventListener instead of having tons of if-else statements. I'll use this as an opportunity to do more debugging and test each function to see what happens.
 
 **Link to work:** [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
