@@ -525,3 +525,11 @@
 
 **Link to work:** [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
 [30 Days, 30 Sites Product Site](https://codepen.io/BritishPandaChick/pen/NvmEax?editors=0010)
+
+### Day 66: August 5, 2019
+
+**Today's Progress**: Did set up for 30 Days, 30 Sites Restaurant Menu website. Started to add HTML code for the website. Did some more debugging and refactoring on JS Calculator. Removed all code and started over.
+
+**Thoughts:** Today's session was mostly getting the rest of the website set up and ready to go. This means adding all the links and setting up the files. Once the set up is finished, I started adding some of the HTML. I managed to get the header and footer sections done. I'm not quite sure what sections to put on my website. Right now I've only got a couple of sections on the website but I wasn't sure what to put. Tomorrow I'll work more on the sections. I think I'll just keep this website simple in order to focus on creating a form as well as working with JavaScript and Bootstrap. Last 30 minutes were spent working on the JS calculator. I still wasn't having much luck passing any of the remaining tests so I decided to just completely start over with all my code. I saved all the code I've been using to a branch of the Github repository. It sucks starting over yet again but I think it is better starting over than continuing a path that isn't getting me anywhere. Right now I'm rebuilding the calculator HTML code. So far I've got 4 tests passing. Most of the calculator buttons have been added. I have been working through the user story tests one at a time to make sure everything is passing before I move onto the next step.
+
+**Link to work:** [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
