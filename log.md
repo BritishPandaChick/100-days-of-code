@@ -558,11 +558,18 @@
 
 **Link to work:** [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
 
-
 ### Day 70: August 9, 2019
 
 **Today's Progress**: Add and remove Bootstrap classes from 30 Days, 30 Sites restaurant menu website. Add CSS to h2 headline for menu section. Continue debugging and refactoring JS Calculator.
 
 **Thoughts:** Today I spent most of my time in the HTML files getting the menu code set up. I'm using the W3Schools template as guidance to how to set up and organize my code for this section. I removed some of the Bootstrap classes like the row div tags and add new Bootstrap classes. This included more container classes for each sub-menu. I moved some of the headlines to the top of the menu. I added p tags under each menu item for the description. I don't think I'm completely done with the HTML but I'll add more Bootstrap and HTML classes as I start working with the JavaScript. I did add some CSS for the h2 headline. Tomorrow I'll finish adding some of the basic styles for the rest of the menu section then I am going to start tackling the JavaScript. The last 30 minutes were spent doing more refactoring and debugging the JavaScript Calculator code. The tests were acting strange for the calculator. Initially only one of 16 tests were passing. The tests kept saying a hook was missing. After saving and refreshing CodePen a couple of times, the tests finally went back to 7 out of 16. I didn't add too much new code. I am still using the Free Code Camp article to double check my code. The createResultString function is finished. I created a getKeyType function that returns the type of key was pressed. I started a new function called updateCalculatorState that will update the calculator. Right now I'm working on getting the calculator to update when users press an operator button.
+
+**Link to work:** [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
+
+### Day 71: August 10, 2019
+
+**Today's Progress**: Add JS code to 30 Days, 30 Sites restaurant menu website. Played around with CSS for menu section. Created a main.css file. Debugging and refactoring JS Calculator code.
+
+**Thoughts:** I created a JavaScript function for the menu site. I added the function to the onclick attribute in the index file. The function doesn't work yet because the classes I use in the function don't exist yet. I noticed in the W3Schools example they use separate classes with different styles. I tried out some of these styles on the mobile stylesheet as well as looked at the code in Dev Tools to see how it works. So I created a brand new stylesheet where these menu styles will live so they can be used on all different screen sizes. Tomorrow I will use the W3Schools template as a guide to naming new classes that will be used in main.css and adding the styles so it will look similar to the W3Schools menu section template. Last 30 minutes were spent working on the JS calculator. The results from the tests remained the same so I've been going back to Google and reading the documentation to see what I can find. I set up a separate local file on my computer to play with the JS code from another video tutorial I found on YouTube as well as using the CodePen pen to play around with the JS code I've already used. Right now I'm going to use the newest YouTube tutorial to see how it works locally then use what I've learned in this tutorial to help me with the pen project. In the local file, I started adding HTML code the tutorial recommends. This tutorial uses a form instead of buttons like I've been using in the past version. I haven't made a lot of forms with my code so this tutorial is a good practice on how I can use forms in future projects. Tomorrow I'd like to finish the HTML for the project so I can start working locally on the JS.
 
 **Link to work:** [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
