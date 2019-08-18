@@ -616,8 +616,17 @@
 
 ### Day 77: August 16, 2019
 
-**Today's Progress**: Finish adding styles to footer on mobile version of 30 Days, 30 Sites restaurant menu. Add styles for medium size screens. Start adding styles for style.css file.
+**Today's Progress**: Finish adding styles to footer on mobile version of 30 Days, 30 Sites restaurant menu. Add styles for medium size screens. Start adding styles for style.css file. Read JS documentation and played around with addtoScreen function for JS calculator.
 
 **Thoughts:** I'm almost done with the restaurant menu website! Today I was able to get a large amount of the site's CSS done. The mobile version is officially done. I got the responsive styles for medium screen sizes done. I was able to get a head start on the styles for the large screens. Although I did a lot of work with the CSS, I double checked the menu section on the mobile and responsive versions to make sure everything is working correctly. Tomorrow I'll finish the restaurant menu website styles then I'll be ready to start a brand new project. Last 30 minutes didn't have too much work on the JS calculator. I spent a lot of time reading Jon Duckett's book. I did play around with the addtoScreen function to see if it would change the number instead showing 0 then the number pressed. I figured out how to do this by adding a value attibute to the display input. Inside the addtoScreen function I changed the += to equals. This allowed me to change the values when the button was pressed but now the function can't calculate anymore so I'm back to 9 out of 16 tests passing. Tomorrow I'm going to go back to the local file to see what happens if I change the form back to div tags to see if the existing code will work if it isn't in a form.
 
 **Link to work:** [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
+
+### Day 78: August 17, 2019
+
+**Today's Progress**: Finish CSS styles for 30 Days, 30 Sites restaurant menu. Fixed merge conflicts with README file on Github. Update input tags to div tags on local JS calculator website. Comment JS code and set up jQuery.
+
+**Thoughts:** I finished the restaurant menu website. I added the remaining CSS to the website. I created a new class in the new section so I could add some padding between the p tags. I put the elements in the new section in a row div tag so they would display inline block on the site without setting the individual properties. The rest of the session was creating the README file for the project and fixing merge conflicts when I was pushing the code to Github. I wasn't able to start set up for the new project because of the merge conflicts but tomorrow I'll start working on the new site setup and what I'd like to work on for this site. During the last 30 minutes, I changed all the input tags on my local version of the JS calculator to div tags. This made the test go from 10 to 7 passing. I spent a lot of time looking at examples on CodePen and the Free Code Camp forums. The ones that don't use React used jQuery or just basic JS to create their calculators. So I added back jQuery to the local calculator to see if I can play around with it. I didn't delete any of my original code. I have all the code I've been working with in comments. So far I've got the document ready and have began adding the variables. Tomorrow I plan on playing with the JS a little bit and using what I'm finding in the forums to see what will help pass the tests on my calculator.
+
+**Link to work:** [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
+[30 Days, 30 Sites Restaurant Menu Site](https://codepen.io/BritishPandaChick/pen/zEGreo?editors=0100)
