@@ -630,3 +630,11 @@
 
 **Link to work:** [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
 [30 Days, 30 Sites Restaurant Menu Site](https://codepen.io/BritishPandaChick/pen/zEGreo?editors=0100)
+
+### Day 79: August 18, 2019
+
+**Today's Progress**: Set up code files for 30 Days, 30 Sites author website. Start writing HTML code. Used jQuery to get calculator buttons to work.
+
+**Thoughts:** I started a brand new project today. Today was mostly getting everything set up and ready to go for the project. I decided to not use JavaScript on this project in order to get more practice with Flexbox properties. Right now my focus is just getting the HTML up on the site. So far I've added the header and footer. I'm not sure what sections to put on my site so I looked at some real author websites to get inspiration as well as looking at the image from the movie showing the book the author wrote to see what fonts and colors to use. Tomorrow I'd like to add more sections to the site so I have enough content to practice with when it comes to playing around with the CSS. Last 30 minutes were playing around with the jQuery and using what I found in the Free Code Camp forums and projects on CodePen to see what might work on my calculator. At first the code I was using earlier was still on the HTML. This threw off all the tests and gave me one user story passing. So I removed the onclick attributes and functions. I also changed most of the divs back into buttons. When I had the jQuery working, I was able to get 12/16 user story tests to pass. As I was searching CodePen and Free Code Camp, I found a project that used code similar to the code I had been using earlier. So I commented out the jQuery code I've been using and removed the comments from my old code. So far I'm updating the addtoScreen function so everything displays on the calculator.
+
+**Link to work:** [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
