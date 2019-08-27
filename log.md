@@ -693,3 +693,11 @@
 
 **Link to work:** [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
 [30 Days, 30 Sites Author Website](https://codepen.io/BritishPandaChick/full/RLgbpe)
+
+### Day 87: August 26, 2019
+
+**Today's Progress**: Start refactoring code for JS calculator. Update HTML & CSS code for calculator. Set up code files for 30 Days, 30 Sites movie trailer website. Start adding HTML code to website.
+
+**Thoughts:** First 30 minutes were spent working on refactoring the JS calculator code. Right now I'm working on refactoring all the functions I'm using. I tried changing around some of the variables to make some global variables instead of local ones. This didn't work and caused some of the user stories I originally had passing to fail. I did take some time to update the HTML & CSS code. I added a brand new div class "buttons" just to group all the keys together and use the buttons class for styles. I also changed the keys class on the buttons to key. I adjusted the selectors in CSS as well as added new properties to some of the classes. I did a lot of setup for the next 30 Days, 30 Sites project. Once the code files were ready to go, I spent the rest of the time working on the HTML. I'm keeping the navigation simple this time with just a navigation bar at the top with no logo. I'm also added the footer at the bottom with social media icons. I started working on the sections but I'm not sure what exactly what to put on  my site. I did look at Disney's actual site for the latest movie as well as another site for Maleficent 2 to get ideas on what I can put. I'm going to think about how exactly I want to setup my site tonight then tomorrow I'll start tackling the sections of my site.
+
+**Link to work:** [JavaScript Calculator](https://codepen.io/BritishPandaChick/pen/ZpZZEX?editors=1010)
