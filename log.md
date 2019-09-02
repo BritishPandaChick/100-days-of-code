@@ -748,3 +748,11 @@
 
 **Link to work:** [Simon Game](https://github.com/BritishPandaChick/fcc-simon-game)
 [30 Days, 30 Site Movie Trailer Website](https://codepen.io/BritishPandaChick/pen/pWVjgK)
+
+### Day 94: September 2, 2019
+
+**Today's Progress**: Add JS variables and eventListeners to Simon game. Create play function for game. Add navigation links to 30 Days, 30 Sites celebrity fan page website. Start add sections to website.
+
+**Thoughts:** First 30 minutes were spent getting the JavaScript started for the Simon game. Most of this time was spent getting all the variables written down as well as writing comments down as I move throughout the code. The rest of the time was setting up the eventListeners for the game buttons. I did create the play function and got a head start on the gameTurn function. After struggling with the ES6 notation for the JS Calculator, I'm trying use this project to get more practice with ES6. The video I'm using to help me build the game has a lot of great tips for working with ES6. That is making it much easier to understand what the notation means and how to best use it in my code. Last 30 minutes were spent working on the HTML for celebrity fan page website. I finished the Header HTML and began adding the sections. I wasn't sure what to put as the sections on the website so I looked at one of my favorite fan page websites for inspiration. So far I've added sections for the greeting, latest news, betrayal and upcoming. Tomorrow I'll add the last section for Avengers and see if there are anymore sections to add to the site. There is a lot of text on the website so I'll see if I can either add more pictures or video to the website so there isn't so much text on the page.
+
+**Link to work:** [Simon Game](https://github.com/BritishPandaChick/fcc-simon-game)
